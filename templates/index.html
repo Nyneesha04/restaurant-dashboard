@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Restaurant Rating Predictor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            text-align: center;
+        }
+        form {
+            background: white;
+            padding: 30px;
+            display: inline-block;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+            margin-top: 50px;
+        }
+        select, input, button {
+            width: 300px;
+            margin: 10px 0;
+            padding: 10px;
+            font-size: 16px;
+        }
+        button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        h2 {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <form method="POST">
+        <h2>Restaurant Rating Predictor</h2>
+
+        <!-- Area Dropdown -->
+        <label for="area">Area:</label><br>
+        <select name="area" id="area" required>
+            <option value="" disabled selected>Select an area</option>
+            {% for area in areas %}
+                <option value="{{ area }}">{{ area }}</option>
+            {% endfor %}
+        </select><br>
+
+        <!-- Restaurant Dropdown -->
+        <label for="restaurant">Restaurant:</label><br>
+        <select name="restaurant" id="restaurant" required>
+            <option value="" disabled selected>Select a restaurant</option>
+            {% for restaurant in restaurants %}
+                <option value="{{ restaurant }}">{{ restaurant }}</option>
+            {% endfor %}
+        </select><br>
+
+        <!-- Price Dropdown -->
+        <label for="price">Price:</label><br>
+        <select name="price" id="price" required>
+            <option value="" disabled selected>Select price level</option>
+            {% for price in prices %}
+                <option value="{{ price }}">{{ price }}</option>
+            {% endfor %}
+        </select><br>
+
+        <!-- Food Type Dropdown -->
+        <label for="food_type">Food Type:</label><br>
+        <select name="food_type" id="food_type" required>
+            <option value="" disabled selected>Select food type</option>
+            {% for food in food_types %}
+                <option value="{{ food }}">{{ food }}</option>
+            {% endfor %}
+        </select><br>
+
+        <!-- Avg Rating Dropdown -->
+        <label for="avg_rating">Average Rating:</label><br>
+        <select name="avg_rating" id="avg_rating" required>
+            <option value="" disabled selected>Select average rating</option>
+            {% for rating in avg_ratings %}
+                <option value="{{ rating }}">{{ rating }}</option>
+            {% endfor %}
+        </select><br>
+
+        <!-- Delivery Time Dropdown -->
+        <label for="delivery_time">Delivery Time (minutes):</label><br>
+        <select name="delivery_time" id="delivery_time" required>
+            <option value="" disabled selected>Select delivery time</option>
+            {% for time in delivery_times %}
+                <option value="{{ time }}">{{ time }}</option>
+            {% endfor %}
+        </select><br>
+
+        <button type="submit">Predict</button><br><br>
+
+        {% if prediction %}
+            <h3 style="color: green;">Predicted Rating: {{ prediction }}</h3>
+        {% endif %}
+    </form>
+</body>
+</html>

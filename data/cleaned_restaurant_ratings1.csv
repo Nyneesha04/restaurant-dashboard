@@ -1,0 +1,1076 @@
+ID,Area,City,Restaurant,Price,Avg ratings,Total ratings,Food type,Address,Delivery time,normalized_rating,normalized_price
+1,film nagar,hyderabad,little italy,1200.0,4.1,100,"pizzas,salads,combo,italian,mexican,desserts,beverages",road no 92,71,0.82,0.7058823529411765
+2,film nagar,hyderabad,so. the sky kitchen,800.0,2.9,80,"mughlai,north indian,chinese,thai,asian",near apollo health city gate,90,0.58,0.47058823529411764
+3,masab tank,hyderabad,dine hill,400.0,4.1,500,"arabian,biryani,north indian,chinese",ahmed nagar,49,0.82,0.23529411764705882
+4,banjara hills,hyderabad,sarvi restaurant,400.0,4.1,5000,"biryani,tandoor,chinese,indian,desserts,kebabs,mughlai",road 11,56,0.82,0.23529411764705882
+5,banjara hills,hyderabad,sarvi bakery,250.0,4.1,100,"desserts,fast food,bakery",opposite care hospital road 11 banjara hills,58,0.82,0.14705882352941177
+6,punjagutta,hyderabad,chutneys,500.0,4.2,1000,"north indian,chinese,south indian",road no 3,62,0.8400000000000001,0.29411764705882354
+7,punjagutta,hyderabad,chinese pavilion,850.0,4.3,500,"chinese,seafood",nagarjuna circle,64,0.86,0.5
+8,banjara hills,hyderabad,chef inam's steak house,1200.0,4.2,100,"steakhouse,american",sri ram nagar colony banjara hills,69,0.8400000000000001,0.7058823529411765
+9,basheer bagh,hyderabad,cream stone,350.0,4.4,1000,"ice cream,desserts,beverages,ice cream cakes",liberty road,27,0.8800000000000001,0.20588235294117646
+10,himayatnagar,hyderabad,dadu's mithai vatika,250.0,4.4,500,"sweets,street food,snacks,chaat,bakery",liberty road,34,0.8800000000000001,0.14705882352941177
+11,ramgopalpet,hyderabad,aangan - yatri nivas,500.0,4.1,100,north indian  south indian,s p road,66,0.82,0.29411764705882354
+12,kalasiguda,hyderabad,bluefox,800.0,4.2,1000,biryani  north indian  chinese  tandoor,sd road,68,0.8400000000000001,0.47058823529411764
+13,masab tank,hyderabad,agra sweets banjara,250.0,4.3,1000,"sweets,desserts,chaat,snacks,beverages",road no 1,46,0.86,0.14705882352941177
+14,kalasiguda,hyderabad,flavours of taj mahal hotel,300.0,4.2,1000,north indian  chinese  desserts  continental  south indian,sd road,57,0.8400000000000001,0.17647058823529413
+15,adarsh nagar,hyderabad,ohri's eatmor,600.0,4.2,500,"ice cream,beverages,desserts,chaat,italian",new mla quarters,37,0.8400000000000001,0.35294117647058826
+16,adarsh nagar,hyderabad,ohri's ming's court,500.0,4.0,1000,chinese,new mla quarters,39,0.8,0.29411764705882354
+17,himayatnagar,hyderabad,minerva coffee shop,500.0,4.3,1000,"south indian,north indian,chinese",himayath nagar road,30,0.86,0.29411764705882354
+18,himayatnagar,hyderabad,bluefox,800.0,4.1,1000,"biryani,north indian,chinese,tandoor",himayath nagar road,36,0.82,0.47058823529411764
+19,punjagutta,hyderabad,srikanya,250.0,4.1,1000,"andhra,seafood",punjagutta road,56,0.82,0.14705882352941177
+20,koti,hyderabad,sri narsing bhelpuri & juice centre (bogulkunta),150.0,4.2,1000,"chaat,italian,juices",tilak road,31,0.8400000000000001,0.08823529411764706
+21,banjara hills,hyderabad,keshav reddy sweets,150.0,4.2,500,"sweets,bakery,desserts,fast food,street food,chaat",road no 2,65,0.8400000000000001,0.08823529411764706
+22,banjara hills,hyderabad,house of dosas,200.0,4.3,500,south indian,road no 2,63,0.86,0.11764705882352941
+23,basheer bagh,hyderabad,mai ki rasoi,200.0,4.5,1000,north indian,himayathnagar road,32,0.9,0.11764705882352941
+24,somajiguda,hyderabad,ice n spice (hotel inner circle),450.0,4.1,20,indian  chinese  tandoor  south indian,raj bhavan road,55,0.82,0.2647058823529412
+25,karkhana,hyderabad,oh so stoned,300.0,3.9,100,ice cream  desserts,vikrampuri colony,68,0.78,0.17647058823529413
+26,koti,hyderabad,grand hotel,300.0,4.1,10000,"biryani,tandoor,chinese,indian,kebabs,desserts",abids road,24,0.82,0.17647058823529413
+27,ramgopalpet,hyderabad,anand bhavan,150.0,3.7,100,north indian  south indian,pg road,59,0.74,0.08823529411764706
+28,dilsukhnagar,hyderabad,tipsy topsy,250.0,3.7,500,chinese  italian  desserts  bakery  fast food,dilsukhnagar main road,39,0.74,0.14705882352941177
+29,nagole,hyderabad,hotel swagath grand - dhanturi group of hotels,300.0,3.9,1000,"biryani,chinese,south indian,north indian,tandoor",alkapuri x roads,67,0.78,0.17647058823529413
+30,chandrapuri colony,hyderabad,hotel sitara grand - dhanturi group of hotels,300.0,3.8,1000,"biryani,chinese,south indian,north indian,tandoor",l b nagar,70,0.76,0.17647058823529413
+31,kothapet,hyderabad,nakshatra inn multi cuisine restaurant,300.0,3.8,100,"biryani,chinese,north indian,south indian",lakshmi nagar colony,52,0.76,0.17647058823529413
+32,narayanguda,hyderabad,mehfil,300.0,3.9,10000,"biryani,tandoor,chinese,indian,kebabs,desserts",narayanguda,25,0.78,0.17647058823529413
+33,himayatnagar,hyderabad,crystal restaurant,350.0,3.9,1000,"biryani,north indian,chinese",rtc x roads,34,0.78,0.20588235294117646
+34,new nallakunta,hyderabad,bawarchi,300.0,3.9,10000,"biryani,tandoor,chinese,indian,desserts,kebabs,mughlai",rtc x roads,27,0.78,0.17647058823529413
+35,begumpet,hyderabad,nrs cafe nandini,150.0,4.3,1000,south indian  juices  indian,begumpet main road,65,0.86,0.08823529411764706
+36,adikmet,hyderabad,us pizza,200.0,3.2,20,"italian,pizzas,fast food,beverages,desserts",o.u road,48,0.64,0.11764705882352941
+37,amberpet,hyderabad,surabhi grand,300.0,4.0,500,"mughlai,north indian,chinese,seafood",tilaknagar,45,0.8,0.17647058823529413
+38,himayatnagar,hyderabad,bluedragon by mandilicious,300.0,4.2,20,chinese,himayathnagar,34,0.8400000000000001,0.17647058823529413
+39,adikmet,hyderabad,frosty den,200.0,2.2,20,"ice cream,pizzas,fast food,beverages,desserts",o.u road,43,0.44000000000000006,0.11764705882352941
+40,banjara hills,hyderabad,sitara grand - nizami pakwaan,300.0,3.6,100,"biryani,chinese,south indian,north indian,tandoor",road no 12,62,0.72,0.17647058823529413
+41,lakdikapul,hyderabad,chicha's,200.0,3.8,500,"biryani,hyderabadi,indian,street food",p & t officers colony,40,0.76,0.11764705882352941
+42,kothapet,hyderabad,kinara grand,750.0,3.9,1000,"north indian,chinese,biryani",ashta laxmi temple,58,0.78,0.4411764705882353
+43,basheer bagh,hyderabad,meghacity,500.0,4.4,1000,"north indian,chinese",basheerbagh x road,32,0.8800000000000001,0.29411764705882354
+44,punjagutta,hyderabad,zyqa restaurant,200.0,4.0,500,"north indian,biryani,chinese",punjagutta,55,0.8,0.11764705882352941
+45,somajiguda,hyderabad,jai durga maa vaishno dhabha,150.0,4.1,100,"punjabi,north indian",somajiguda,55,0.82,0.08823529411764706
+46,himayatnagar,hyderabad,sahara bakers,200.0,3.8,500,"bakery,pizzas",chikadpally,34,0.76,0.11764705882352941
+47,koti,hyderabad,tibbs frankie,150.0,4.3,100,snacks,hanuman tekdi road,29,0.86,0.08823529411764706
+48,abids,hyderabad,agrawala sweets,250.0,4.3,100,"sweets,fast food",jn road,27,0.86,0.14705882352941177
+49,koti,hyderabad,bombay juice,200.0,4.2,500,"chaat,chinese,juices",sultan bazar,26,0.8400000000000001,0.11764705882352941
+50,koti,hyderabad,santosh dhaba exclusive,300.0,4.1,1000,"north indian,biryani,chinese,italian,mexican,desserts",hanuman tekdi,30,0.82,0.17647058823529413
+51,himayatnagar,hyderabad,angaara,250.0,3.9,100,"indian,chinese,tandoor",street 4,33,0.78,0.14705882352941177
+52,himayatnagar,hyderabad,almond house,800.0,4.6,500,"sweets,desserts,snacks",himayath nagar road,29,0.9199999999999999,0.47058823529411764
+53,koti,hyderabad,taj mahal-abids,300.0,4.3,1000,"north indian,chinese,south indian",abids road,34,0.86,0.17647058823529413
+54,khairtabad,hyderabad,paradise biryani,400.0,3.9,100,biryani  north indian  chinese,imax road,48,0.78,0.23529411764705882
+55,new nallakunta,hyderabad,balaji family dhaba & caterers,450.0,3.9,1000,"north indian,chinese",vegetable market,33,0.78,0.2647058823529412
+56,punjagutta,hyderabad,akson restaurant,250.0,4.3,1000,"north indian,biryani,kerala",panjagutta road,53,0.86,0.14705882352941177
+57,habsiguda,hyderabad,taste of india,600.0,4.2,20,"north indian,chinese,continental",habsiguda main road,67,0.8400000000000001,0.35294117647058826
+58,uppal,hyderabad,crunchy's,150.0,3.8,20,"italian,american",uppal ring road,72,0.76,0.08823529411764706
+59,koti,hyderabad,sri radhe chills and thrills,200.0,4.2,500,"italian,juices,fast food",abids,28,0.8400000000000001,0.11764705882352941
+60,punjagutta,hyderabad,friends shawarma,200.0,4.3,100,lebanese,road no 3,61,0.86,0.11764705882352941
+61,west marredpally,hyderabad,triple a bakery,100.0,3.9,100,italian  bakery,west marredpally road,70,0.78,0.058823529411764705
+62,murad nagar,hyderabad,food zone 2,300.0,4.0,500,"mughlai,chinese,tandoor",guddimmalkapur road,46,0.8,0.17647058823529413
+63,redhills,hyderabad,rayalaseema ruchulu,450.0,4.0,500,"south indian,biryani,rayalaseema",lakdikapul,39,0.8,0.2647058823529412
+64,adarsh nagar,hyderabad,sri narsing bhelpuri & pav bhaji (himayathnagar),150.0,4.1,100,"chaat,italian",hyderabad nursing home lane,35,0.82,0.08823529411764706
+65,ramkote,hyderabad,sri balaji family dhaba - ramkote,200.0,4.1,1000,"punjabi,north indian,chinese",tilak road,26,0.82,0.11764705882352941
+66,toli chowki,hyderabad,new minerva sweets,250.0,4.3,1000,"sweets,chaat,desserts",surya nagar,62,0.86,0.14705882352941177
+67,somajiguda,hyderabad,kritunga restaurant,500.0,4.0,1000,"biryani,andhra,rayalaseema,south indian,north indian,chinese",somajiguda,52,0.8,0.29411764705882354
+68,basheer bagh,hyderabad,bikanervala,500.0,4.3,1000,sweets  north indian  chinese  south indian,hyderguda - basheerbagh road,35,0.86,0.29411764705882354
+69,murad nagar,hyderabad,bakers street,250.0,4.2,500,bakery  continental,gudimalkatur road,49,0.8400000000000001,0.14705882352941177
+70,king koti,hyderabad,amay tiffin corner (amul),100.0,4.1,500,south indian,tilak road,29,0.82,0.058823529411764705
+71,banjara hills,hyderabad,bheemas grand,150.0,4.1,1000,south indian,road no 10,50,0.82,0.08823529411764706
+72,shivaji nagar,hyderabad,spice garden (royal reve hotel),600.0,4.2,100,north indian  chinese  continental,sd road,66,0.8400000000000001,0.35294117647058826
+73,koti,hyderabad,scoops,200.0,4.5,500,"ice cream,desserts,beverages",koti main road,20,0.9,0.11764705882352941
+74,kachiguda,hyderabad,urban munchies,150.0,2.9,80,"ice cream,desserts",adikmet vidyanagar,42,0.58,0.08823529411764706
+75,banjara hills,hyderabad,radisson blu plaza delivery,1200.0,3.7,20,"chinese,biryani,north indian",road no 6,82,0.74,0.7058823529411765
+76,lakdikapul,hyderabad,shahji ka dhaba,400.0,4.3,100,"north indian,chinese",veer nagar,44,0.86,0.23529411764705882
+77,masab tank,hyderabad,madhur sweets,250.0,4.4,1000,"sweets,desserts",humayun nagar,42,0.8800000000000001,0.14705882352941177
+78,banjara hills,hyderabad,karachi bakery banjara,200.0,4.1,1000,"bakery,pizzas,snacks,chinese,italian,american,sweets,desserts,beverages",road no 1,56,0.82,0.11764705882352941
+79,dilsukhnagar,hyderabad,desi pizza,200.0,3.9,20,pizzas,p and t colony road,50,0.78,0.11764705882352941
+80,kachiguda,hyderabad,rambharose - bhattad ki idli,150.0,4.2,1000,south indian,kutbi guda,27,0.8400000000000001,0.08823529411764706
+81,habsiguda,hyderabad,suruchi - the family restaurant,500.0,4.2,500,"biryani,north indian,chinese",habsiguda circle,58,0.8400000000000001,0.29411764705882354
+82,narayanguda,hyderabad,taj mahal hotel,300.0,4.2,1000,"north indian,chinese,south indian,tandoor",narayanaguda main road,32,0.8400000000000001,0.17647058823529413
+83,himayatnagar,hyderabad,subway,350.0,4.3,500,"fast food,salads,snacks,desserts,beverages",himayath nagar road,33,0.86,0.20588235294117646
+84,kothapet,hyderabad,kritunga restaurant,500.0,4.0,1000,"biryani,andhra,rayalaseema,south indian,north indian,chinese",dilsukhnagar main road,49,0.8,0.29411764705882354
+85,masab tank,hyderabad,cafe 555 & aqeeq restaurant,300.0,3.9,5000,"biryani,north indian,chinese",owaisi pura,46,0.78,0.17647058823529413
+86,banjara hills,hyderabad,shadab go,500.0,4.1,1000,"north indian,biryani,chinese",road no 3,68,0.82,0.29411764705882354
+87,himayatnagar,hyderabad,eagles pizza,150.0,3.7,500,pizzas,himayathnagar road,32,0.74,0.08823529411764706
+88,gaddiannaram,hyderabad,delicious dosa,100.0,4.0,500,south indian,p & t colony x roads,47,0.8,0.058823529411764705
+89,madhura nagar,hyderabad,rk sweets and juices,200.0,4.2,50,sweets  desserts  bakery  beverages,madhuranagar,63,0.8400000000000001,0.11764705882352941
+90,basheer bagh,hyderabad,rahul tiffins,150.0,3.7,100,south indian,street no 19,34,0.74,0.08823529411764706
+91,himayatnagar,hyderabad,govind dosa,250.0,4.3,500,south indian,near brand factory,33,0.86,0.14705882352941177
+92,new nallakunta,hyderabad,new astoria restaurant,450.0,3.8,100,"chinese,biryani",rtc cross road,34,0.76,0.2647058823529412
+93,koti,hyderabad,royal tiffin centre,150.0,3.8,1000,south indian,hanuman tekdi,32,0.76,0.08823529411764706
+94,banjara hills,hyderabad,exotica,1000.0,4.5,500,"indian,chinese,north indian,punjabi,tandoor,kebabs,biryani,seafood,oriental,desserts,sweets,beverages,combo",nbt nagar,65,0.9,0.5882352941176471
+95,habsiguda,hyderabad,blr food kourt,250.0,4.1,20,"biryani,chinese,north indian",vasanth vihar colony,63,0.82,0.14705882352941177
+96,koti,hyderabad,palace heights,1700.0,3.8,50,"north indian,chinese,biryani,continental,mughlai",palace heights lane,44,0.76,1.0
+97,nagole,hyderabad,amaravathi family restaurant,500.0,4.1,500,"indian,chinese,tandoor",nagole road,69,0.82,0.29411764705882354
+98,kothapet,hyderabad,spicy hub,500.0,4.0,1000,"north indian,chinese",kothapet - r.k puram road,51,0.8,0.29411764705882354
+99,huda complex,hyderabad,papadams blue,500.0,3.9,1000,"biryani,chinese,andhra,north indian,south indian,tandoor",kothapet cross road,53,0.78,0.29411764705882354
+100,huda complex,hyderabad,papadams restaurant,500.0,3.8,1000,"biryani,chinese,andhra,north indian,south indian,tandoor",kothapet road,54,0.76,0.29411764705882354
+101,kachiguda,hyderabad,cafe coffee day,300.0,4.5,20,"beverages,snacks,desserts",kachiguda railway station,36,0.9,0.17647058823529413
+102,basheer bagh,hyderabad,cafe coffee day,300.0,4.1,100,beverages  snacks  desserts,sri siva rama towers,40,0.82,0.17647058823529413
+103,gudimalkapur,hyderabad,sri balaji family dhaba,300.0,3.9,100,north indian,gudi malkapur,50,0.78,0.17647058823529413
+104,masab tank,hyderabad,fancy ice cream,150.0,3.9,20,desserts,vijay nagar colony,38,0.78,0.08823529411764706
+105,dilsukhnagar,hyderabad,sahadeva reddy pure ghee sweets,400.0,4.3,100,sweets,dilsukhnagar main road,39,0.86,0.23529411764705882
+106,musheerabad,hyderabad,hotel sandarshini,200.0,4.0,100,north indian  chinese  south indian,musheerabad main road,36,0.8,0.11764705882352941
+107,dilsukhnagar,hyderabad,the shawarma's,200.0,4.1,50,lebanese,p and t colony,47,0.82,0.11764705882352941
+108,dilsukhnagar,hyderabad,a-1 chicken pakoda,250.0,4.1,500,"biryani,chinese,mughlai",shalivahana nagar,41,0.82,0.14705882352941177
+109,somajiguda,hyderabad,verandah-the park hyderabad,550.0,4.0,50,"indian,chinese,biryani,snacks,desserts",raj bhavan road,58,0.8,0.3235294117647059
+110,banjara hills,hyderabad,dunkin donuts,250.0,4.3,500,"desserts,bakery,beverages,fast food,combo",road no.1,52,0.86,0.14705882352941177
+111,basheer bagh,hyderabad,makers of milkshakes,260.0,4.2,100,beverages  desserts,king koti road,33,0.8400000000000001,0.15294117647058825
+112,abids,hyderabad,hameedi confectioners,300.0,4.4,100,sweets,aphb colony,34,0.8800000000000001,0.17647058823529413
+113,banjara hills,hyderabad,haiku,1500.0,4.4,100,"japanese,asian,thai",road no 12,75,0.8800000000000001,0.8823529411764706
+114,nampally,hyderabad,lakshman ki bandi,150.0,4.3,100,south indian,ghoshamahal,36,0.86,0.08823529411764706
+115,nampally,hyderabad,al-tazaj fried chicken,200.0,4.0,20,"italian,beverages,fast food",mallepally,51,0.8,0.11764705882352941
+116,banjara hills,hyderabad,flying spaghetti monster,1500.0,4.3,100,"italian,pizzas",green valley,76,0.86,0.8823529411764706
+117,gaddi annaram,hyderabad,hungry kya pet barlo,300.0,2.9,80,"street food,south indian",gaddi annaram,69,0.58,0.17647058823529413
+118,himayatnagar,hyderabad,mcdonald's,400.0,4.2,1000,"american,fast food",himayat nagar,33,0.8400000000000001,0.23529411764705882
+119,uppal,hyderabad,gayathri tiffins,200.0,3.9,100,south indian,habsiguda,61,0.78,0.11764705882352941
+120,krishna nagar colony,hyderabad,sri raghavendra udupi veg,200.0,4.0,1000,south indian,saroor nagar road,55,0.8,0.11764705882352941
+121,jyothi nagar,hyderabad,sindhura east court,300.0,3.7,20,"north indian,chinese,south indian,tandoor",raghavendra nagar,65,0.74,0.17647058823529413
+122,punjagutta,hyderabad,meridian restaurant,400.0,4.1,5000,"biryani,chinese,north indian,kebabs",panjagutta main road,53,0.82,0.23529411764705882
+123,khairtabad,hyderabad,barista,350.0,2.9,80,"beverages,snacks",prasad i max,58,0.58,0.20588235294117646
+124,tarnaka,hyderabad,ayaan's bbq & mataam mandi,400.0,4.1,20,arabian  biryani  mughlai,tarnaka main road,67,0.82,0.23529411764705882
+125,mehdipatnam,hyderabad,italian pizzeria creamato,400.0,4.2,50,"italian,desserts,american",gudi malkapur road,56,0.8400000000000001,0.23529411764705882
+126,toli chowki,hyderabad,mr. faddy,300.0,4.2,1000,american,janaki nagar colony,65,0.8400000000000001,0.17647058823529413
+127,banjara hills,hyderabad,aromas of asia,1000.0,4.1,50,"pan-asian,chinese",road no 1,62,0.82,0.5882352941176471
+128,new nallakunta,hyderabad,pista house,200.0,4.3,1000,"bakery,pizzas,snacks,desserts",chikkadapalli road,30,0.86,0.11764705882352941
+129,himayath nagar,hyderabad,lazeez khaana,350.0,2.9,80,"chinese,biryani,mughlai,north indian,haleem",railway quarters,37,0.58,0.20588235294117646
+130,khairtabad,hyderabad,dwaraka restaurant,250.0,4.2,1000,"north indian,chinese,south indian",opposite global hospital,37,0.8400000000000001,0.14705882352941177
+131,redhills,hyderabad,cafe niloufer classic,150.0,4.5,1000,bakery,lakdikapul,35,0.9,0.08823529411764706
+132,kothapet,hyderabad,sivarama reddy sweets,500.0,4.3,100,sweets,behind bus stop,48,0.86,0.29411764705882354
+133,banjara hills,hyderabad,sahib sindh sultan,1000.0,4.2,50,"north indian,biryani",city center mall,66,0.8400000000000001,0.5882352941176471
+134,banjara hills,hyderabad,ofen,300.0,4.3,100,"european,italian,continental,desserts",banjara hills,59,0.86,0.17647058823529413
+135,kachiguda,hyderabad,domino's pizza,400.0,4.4,100,pizzas,kachiguda main road,30,0.8800000000000001,0.23529411764705882
+136,koti,hyderabad,krupa mess & tiffins,200.0,3.6,500,south indian,jn road,39,0.72,0.11764705882352941
+137,kavadiguda,hyderabad,aamantran pure veg,450.0,4.2,1000,north indian  chinese  south indian  jain,golkonda cross road,37,0.8400000000000001,0.2647058823529412
+138,kachiguda,hyderabad,sri amul tiffins centre,200.0,4.3,20,south indian,badi chowdi,32,0.86,0.11764705882352941
+139,adikmet,hyderabad,urban munchies (us pizza),300.0,3.2,20,fast food  pizzas  beverages  desserts,srt colony  adikmet,49,0.64,0.17647058823529413
+140,zamistanpur,hyderabad,crispy hub,250.0,3.8,100,"american,pizzas,continental",musheerabad mch colony,41,0.76,0.14705882352941177
+141,himayatnagar,hyderabad,mandilicious,450.0,3.9,100,"arabian,indian,chinese",himayath nagar,32,0.78,0.2647058823529412
+142,himayatnagar,hyderabad,rice bowl,200.0,4.0,1000,"north indian,south indian",urdu galli,28,0.8,0.11764705882352941
+143,himayatnagar,hyderabad,burger king,350.0,4.2,1000,american  fast food,mpm millennium mall,35,0.8400000000000001,0.20588235294117646
+144,khairtabad,hyderabad,salt & pepper-the central court hotel,250.0,2.9,80,"north indian,chinese,continental,seafood",lakdikapul main road,44,0.58,0.14705882352941177
+145,adikmet,hyderabad,rammy fast food,200.0,4.0,100,fast food,adikmet main road,35,0.8,0.11764705882352941
+146,sai nagar,hyderabad,shiva sai reddy sweets & chat,200.0,4.4,500,sweets,karmanghat cross road,60,0.8800000000000001,0.11764705882352941
+147,bn reddy nagar,hyderabad,n village,700.0,4.0,500,"north indian,chinese,south indian,biryani",sn reddy nagar,60,0.8,0.4117647058823529
+148,banjara hills,hyderabad,fitmeals,500.0,4.2,100,continental  lebanese,devera konda green valley,67,0.8400000000000001,0.29411764705882354
+149,kavadiguda,hyderabad,star hotel,300.0,3.4,1000,"hyderabadi,mughlai,biryani",kavadiguda,41,0.6799999999999999,0.17647058823529413
+150,somajiguda,hyderabad,kathmandu momo,150.0,4.4,100,fast food,raj bhavan road,59,0.8800000000000001,0.08823529411764706
+151,karkhana,hyderabad,sukha sagara,250.0,4.2,1000,south indian  north indian  chinese,sikh rd,70,0.8400000000000001,0.14705882352941177
+152,ameerpet,hyderabad,vellanki foods,200.0,4.4,1000,sweets  desserts,ameerpet 'x' road,61,0.8800000000000001,0.11764705882352941
+153,narayanguda,hyderabad,k&c bakers &confectioners,200.0,4.0,100,bakery,venkata swamy nagar,30,0.8,0.11764705882352941
+154,himayatnagar,hyderabad,sri shagun mithai vatika,200.0,4.3,20,"desserts,sweets",domalguda,34,0.86,0.11764705882352941
+155,toli chowki,hyderabad,shah ghouse cafe & restaurant,350.0,4.0,10000,biryani  north indian  chinese  mughlai  tandoor,tolichowki,63,0.8,0.20588235294117646
+156,basheer bagh,hyderabad,alex's kitchen,350.0,4.2,500,chinese,liberty road,39,0.8400000000000001,0.20588235294117646
+157,chilakalguda,hyderabad,sri raghavendra tiffins - chilakalaguda,150.0,4.0,100,south indian  chinese,mylargadda rd,48,0.8,0.08823529411764706
+158,old mla quarters,hyderabad,veggie chinese,300.0,4.0,100,chinese,hari vihar colony,30,0.8,0.17647058823529413
+159,amberpet,hyderabad,habeeb's fast food,300.0,4.1,500,"fast food,chinese,mughlai",near polytechnic bus stop,38,0.82,0.17647058823529413
+160,banjara hills,hyderabad,just parantha,200.0,4.2,1000,north indian,road no 12 banjarahills,48,0.8400000000000001,0.11764705882352941
+161,koti,hyderabad,shree santosh family dhaba,200.0,3.8,1000,"north indian,chinese,tandoor,biryani,beverages,indian",jn road,31,0.76,0.11764705882352941
+162,banjara hills,hyderabad,royal tiffin centre,150.0,4.0,1000,indian,road no -3,66,0.8,0.08823529411764706
+163,mehdipatnam,hyderabad,mohammedia shawarma,300.0,3.8,500,arabian  street food,p & t colony,57,0.76,0.17647058823529413
+164,somajiguda,hyderabad,punjabi paratha house,200.0,4.0,500,punjabi  north indian,somajiguda,47,0.8,0.11764705882352941
+165,old malakpet,hyderabad,al madina mandi house,400.0,3.9,100,"biryani,arabian,fast food",malakpet gunj,34,0.78,0.23529411764705882
+166,malakpet,hyderabad,de' cafe studio,300.0,3.4,20,"continental,american,italian",nalgonda x road,39,0.6799999999999999,0.17647058823529413
+167,malakpet,hyderabad,the royal palace,300.0,3.9,100,"chinese,mughlai,tandoor,biryani",chaderghat,36,0.78,0.17647058823529413
+168,kothapet,hyderabad,hotel nakshatra grand,350.0,3.8,100,"north indian,chinese,biryani,south indian",rajadhani theatre rd,52,0.76,0.20588235294117646
+169,banjara hills,hyderabad,silver salt,1000.0,3.9,50,"hyderabadi,biryani,north indian",road no 1,66,0.78,0.5882352941176471
+170,abids,hyderabad,mini punjab,400.0,3.7,500,"south indian,north indian,chinese,punjabi",boggulkunta,35,0.74,0.23529411764705882
+171,koti,hyderabad,santosh dhaba jashan,300.0,4.1,500,"north indian,chinese,italian",chirag ali lane,30,0.82,0.17647058823529413
+172,ameerpet,hyderabad,hari dosa,200.0,3.8,1000,indian  south indian  chinese,satyam theatre rd,66,0.76,0.11764705882352941
+173,rajamohallah,hyderabad,marathi katta,150.0,4.2,500,maharashtrian,koti,27,0.8400000000000001,0.08823529411764706
+174,ameerpet,hyderabad,sri raghavendra vegetarian restaurant,150.0,4.1,500,south indian  north indian  andhra,srinivas colony,59,0.82,0.08823529411764706
+175,kachiguda,hyderabad,sri raghavendra tiffins,150.0,4.3,1000,"south indian,andhra",barkathpura,25,0.86,0.08823529411764706
+176,ameerpet,hyderabad,udupi park pure veg,150.0,4.1,1000,south indian,ameerpet,57,0.82,0.08823529411764706
+177,himayatnagar,hyderabad,the platinum hotel-clove,800.0,4.0,100,"north indian,south indian,continental,chinese",himayat nagar rd,37,0.8,0.47058823529411764
+178,kothapet,hyderabad,suruchi biryani house,300.0,3.4,50,"north indian,chinese,biryani,hyderabadi",sowbhagya nagar,67,0.6799999999999999,0.17647058823529413
+179,sri hanuman nagar colony,hyderabad,hotel shubham palace - dhanturi hospitality,300.0,3.9,1000,"biryani,chinese,south indian,north indian,tandoor",sri hanuman nagar colony,65,0.78,0.17647058823529413
+180,chanchalguda,hyderabad,hotel sohail waves,500.0,4.1,1000,"arabian,tandoor,mughlai,biryani,north indian",officers colony,27,0.82,0.29411764705882354
+181,ramanthapur,hyderabad,sri santhosh family dhaba,400.0,4.1,100,"north indian,tandoor,punjabi,chinese",ramanthapur,48,0.82,0.23529411764705882
+182,somajiguda,hyderabad,maa santosh dhaba,400.0,4.1,100,"north indian,chinese",rajbhavan road,54,0.82,0.23529411764705882
+183,kachiguda,hyderabad,balaji santosh dhaba,350.0,4.0,500,"north indian,chinese",kachiguda station rd,27,0.8,0.20588235294117646
+184,malakpet,hyderabad,paradise biryani,400.0,3.8,100,"biryani,north indian,chinese",tsrtc mahatma gandhi bus station,36,0.76,0.23529411764705882
+185,toli chowki,hyderabad,kabul darbar,850.0,4.3,100,"afghani,arabian,indian,tandoor",balreddy nagar,57,0.86,0.5
+186,himayatnagar,hyderabad,bombay kulfis,100.0,4.4,20,ice cream,himayatnagar,29,0.8800000000000001,0.058823529411764705
+187,new nallakunta,hyderabad,sri raghavendra curry express,200.0,4.3,1000,"south indian,andhra",rtc cross road,29,0.86,0.11764705882352941
+188,venkateshwara colony,hyderabad,scoops,300.0,4.4,100,desserts  ice cream  chaat,ymca circle,24,0.8800000000000001,0.17647058823529413
+189,nagole,hyderabad,the chocolate room,500.0,3.7,50,desserts,arunodaya nagar colony,76,0.74,0.29411764705882354
+190,banjara hills,hyderabad,waffle house,400.0,3.9,20,cafe  desserts  beverages,raod no 12,55,0.78,0.23529411764705882
+191,kachiguda,hyderabad,ibaco,800.0,4.2,50,"ice cream,desserts",barkatpura,28,0.8400000000000001,0.47058823529411764
+192,ramgopalpet,hyderabad,sri siddhi udupi tiffins & restaurant,150.0,4.3,500,north indian  south indian,sappu bagh apaprtment,55,0.86,0.08823529411764706
+193,amberpet,hyderabad,balaji santosh family dhaba,300.0,4.2,500,"north indian,tandoor,chinese",shivam road,35,0.8400000000000001,0.17647058823529413
+194,santosh nagar,hyderabad,khismat restaurant,250.0,3.6,100,"chinese,indian,mughlai",maruthi nagar,50,0.72,0.14705882352941177
+195,saidabad,hyderabad,tipsy topsy,250.0,3.7,500,"chinese,italian,desserts,bakery,fast food",saroor nagar,39,0.74,0.14705882352941177
+196,dilsukhnagar,hyderabad,mr.pulao,200.0,3.6,500,"andhra,south indian,biryani",krishna nagar,41,0.72,0.11764705882352941
+197,khairtabad,hyderabad,sukha sagara north indian & chinese,300.0,3.9,100,"north indian,chinese",ag office road,40,0.78,0.17647058823529413
+198,banjara hills,hyderabad,keventers - milkshakes and desserts,300.0,4.0,50,"beverages,ice cream,desserts,healthy food",gvk one mall,62,0.8,0.17647058823529413
+199,sanjeeva reddy nagar,hyderabad,hotel udupi home,150.0,4.1,500,south indian,s r nagar main road,60,0.82,0.08823529411764706
+200,adikmet,hyderabad,nrs nandini,150.0,4.3,1000,south indian,nallakunta main rd,27,0.86,0.08823529411764706
+201,gaddiannaram,hyderabad,nrs anand tiffins,150.0,3.8,100,south indian,opp konark theater,39,0.76,0.08823529411764706
+202,bn reddy nagar,hyderabad,amaravathi restaurant,400.0,4.0,50,"north indian,chinese",champapet rd,63,0.8,0.23529411764705882
+203,himayatnagar,hyderabad,roll zone,150.0,4.1,50,"snacks,fast food",urdu hall lane,31,0.82,0.08823529411764706
+204,mehdipatnam,hyderabad,prince restaurant,200.0,3.9,1000,"biryani,north indian,tandoor,hyderabadi,kebabs,chinese",masjid road,52,0.78,0.11764705882352941
+205,humayun nagar,hyderabad,prince hotel,200.0,4.0,1000,"biryani,north indian,tandoor",masjid road,51,0.8,0.11764705882352941
+206,amberpet,hyderabad,hotel shanthi delux,250.0,4.3,100,"south indian,north indian,chinese",shivam road,38,0.86,0.14705882352941177
+207,old malakpet,hyderabad,suprabhat tiffins,250.0,4.2,1000,south indian,mansoorabad,32,0.8400000000000001,0.14705882352941177
+208,toli chowki,hyderabad,4 seasons,800.0,4.1,500,"mediterranean,lebanese,mughlai,north indian,chinese,salads",opposite rta office,65,0.82,0.47058823529411764
+209,nallakunta,hyderabad,sri raghavendra tiffins,250.0,4.3,1000,south indian,shivam road,32,0.86,0.14705882352941177
+210,kalasiguda,hyderabad,jaggu mithai,250.0,4.2,1000,desserts  biryani  chaat  fast food,secunderabad,56,0.8400000000000001,0.14705882352941177
+211,new nallakunta,hyderabad,lucky's biryani house,400.0,4.0,100,"biryani,chinese",tilak nagare x road,38,0.8,0.23529411764705882
+212,tarnaka,hyderabad,nrs hotel sanman,150.0,4.1,1000,"south indian,north indian",tarnaka cross road,57,0.82,0.08823529411764706
+213,new mallepally,hyderabad,al arabian shawarma,150.0,4.2,50,arabian,nampally station road,35,0.8400000000000001,0.08823529411764706
+214,lakdikapul,hyderabad,hotel azizia,300.0,3.9,50,"north indian,biryani,chinese",nampally,31,0.78,0.17647058823529413
+215,himayatnagar,hyderabad,goli soda,100.0,4.1,100,"beverages,desserts",bharkatpura,33,0.82,0.058823529411764705
+216,abids,hyderabad,g pulla reddy sweets,300.0,4.4,100,"sweets,desserts",nampally station road,31,0.8800000000000001,0.17647058823529413
+217,mehdipatnam,hyderabad,g pulla reddy sweets,300.0,4.3,100,sweets  desserts,ambedkar colony rd,54,0.86,0.17647058823529413
+218,punjagutta,hyderabad,the belgian waffle co.,200.0,4.5,100,desserts  beverages,next galleria mall,66,0.9,0.11764705882352941
+219,west marredpally,hyderabad,geetha tiffins,150.0,4.3,1000,south indian,infront of geetha nursing home,64,0.86,0.08823529411764706
+220,basheer bagh,hyderabad,yaariyan,400.0,3.8,20,"north indian,south indian,italian,chinese,chaat,beverages,desserts",gun foundry,35,0.76,0.23529411764705882
+221,new malakpet,hyderabad,capital multi cuisine restaurant,500.0,3.8,5000,"haleem,arabian,biryani,tandoor,chinese,indian,desserts,kebabs,mughlai",mumbai hwy,33,0.76,0.29411764705882354
+222,film nagar,hyderabad,sofrehh persian bistro,400.0,4.1,50,fast food  middle eastern  cafe,road number 36,77,0.82,0.23529411764705882
+223,punjagutta,hyderabad,baguette salads,200.0,3.8,100,"healthy food,north indian,beverages",rd no:3,64,0.76,0.11764705882352941
+224,uppal,hyderabad,sri gayathri tiffins,100.0,4.2,100,south indian,vijayapuri colony,61,0.8400000000000001,0.058823529411764705
+225,old malakpet,hyderabad,karachi bakery,400.0,4.2,100,"bakery,pizzas,fast food,chinese,italian,american,sweets,desserts,beverages",saleem nagar,38,0.8400000000000001,0.23529411764705882
+226,new malakpet,hyderabad,tower bavarchi multi cuisine restaurant,300.0,3.2,100,"north indian,chinese,biryani",dilsukhnagar main rd,35,0.64,0.17647058823529413
+227,banjara hills,hyderabad,chai point,150.0,4.2,500,"bakery,combo,beverages,maharashtrian,snacks,street food,south indian,punjabi,fast food",gvk mall,57,0.8400000000000001,0.08823529411764706
+228,lakdikapul,hyderabad,al yousufain fast food,300.0,4.1,50,"indian,fast food",nampally,30,0.82,0.17647058823529413
+229,ramgopalpet,hyderabad,china express & sizzling joe,500.0,4.0,100,chinese  italian,sindhi colony  minister road,61,0.8,0.29411764705882354
+230,amberpet,hyderabad,bakers 'q',300.0,4.0,100,bakery,shivam road,44,0.8,0.17647058823529413
+231,banjara hills,hyderabad,ohri's cake nation,600.0,4.1,100,desserts  bakery,road no.12,52,0.82,0.35294117647058826
+232,santosh nagar,hyderabad,balaji family dhaba,300.0,4.1,1000,"indian,chinese,punjabi,jain",main rd,48,0.82,0.17647058823529413
+233,himayatnagar,hyderabad,apsara ice creams,150.0,4.3,50,"ice cream,desserts",opp minerva coffee shop,33,0.86,0.08823529411764706
+234,amberpet,hyderabad,down town house,250.0,2.6,20,ice cream  beverages  fast food,amderpet,46,0.52,0.14705882352941177
+235,narayanguda,hyderabad,the bhimavaram boys,300.0,3.7,500,south indian,old mla quaaters rd,33,0.74,0.17647058823529413
+236,banjara hills,hyderabad,24/7 gallery cafe - hyatt place hyderabad,1500.0,2.9,80,"italian,indian,continental",hyatt place road no 1 banjara hills,66,0.58,0.8823529411764706
+237,himayath nagar,hyderabad,istah - shawarma and biryani,250.0,4.4,1000,"arabian,lebanese,mediterranean,biryani",himayath nagar,27,0.8800000000000001,0.14705882352941177
+238,kothapet,hyderabad,green treat,400.0,4.1,500,"north indian,south indian",rythu bazar rd,54,0.82,0.23529411764705882
+239,kothapet,hyderabad,sri sweets & savories,300.0,4.1,20,sweets,kothapet rhytu bajar rd,53,0.82,0.17647058823529413
+240,film nagar,hyderabad,wokstars,400.0,4.2,100,"asian,chinese",near apollo hospital road 92,77,0.8400000000000001,0.23529411764705882
+241,shivaji nagar,hyderabad,sri krishna sweets,200.0,4.3,50,sweets,no 1 1 92  r p road  secunderabad,57,0.86,0.11764705882352941
+242,lakdikapul,hyderabad,stop n go,200.0,4.3,100,"fast food,bakery",p & t officers colony,48,0.86,0.11764705882352941
+243,banjara hills,hyderabad,cafe graffiti pizzeria,450.0,3.9,50,"fast food,italian,beverages",rd number 12,61,0.78,0.2647058823529412
+244,toli chowki,hyderabad,shalimar sweets,300.0,4.1,100,sweets,galaxy theatre road,67,0.82,0.17647058823529413
+245,narayanguda,hyderabad,rambharose - bhattad ki idli,150.0,4.2,1000,south indian,narayanguda rd,27,0.8400000000000001,0.08823529411764706
+246,begumpet,hyderabad,reliance bakery,300.0,4.3,20,bakery  desserts,begumpet,76,0.86,0.17647058823529413
+247,amberpet,hyderabad,sampradaya foods,450.0,4.5,100,"sweets,desserts",bagh amberpet,40,0.9,0.2647058823529412
+248,bowenpally,hyderabad,sweet heart family restaurant,300.0,3.7,1000,north indian  chinese  biryani,begumpet,74,0.74,0.17647058823529413
+249,khairtabad,hyderabad,the just biryani,200.0,4.3,20,"chinese,south indian,north indian",road 12,54,0.86,0.11764705882352941
+250,dilsukhnagar,hyderabad,chinese by sahadeva reddy,200.0,4.2,100,"chinese,fast food",rd number 35,39,0.8400000000000001,0.11764705882352941
+251,dilsukhnagar,hyderabad,sahadeva reddy tiffins,150.0,4.2,500,south indian,maruthi nagar,40,0.8400000000000001,0.08823529411764706
+252,dilsukhnagar,hyderabad,sahadeva reddy's chinese kitchen,250.0,4.0,500,"chinese,fast food",maruthi nagar,38,0.8,0.14705882352941177
+253,narayanguda,hyderabad,vnr fresh juice center,200.0,3.5,1000,"beverages,desserts",street no 9,30,0.7,0.11764705882352941
+254,banjara hills,hyderabad,sandwich eatery,250.0,4.0,100,fast food  beverages,sr nagar,75,0.8,0.14705882352941177
+255,karkhana,hyderabad,tea kettle,300.0,4.5,50,beverages  fast food,kharkana,68,0.9,0.17647058823529413
+256,mehdipatnam,hyderabad,hotel city diamond,300.0,4.3,500,"biryani,hyderabadi",mehdipatnam x roads,43,0.86,0.17647058823529413
+257,yousufguda,hyderabad,eat n joy bakers,200.0,4.1,20,bakery,kamalapuri colony,67,0.82,0.11764705882352941
+258,ameerpet,hyderabad,sai darshini tiffins,150.0,4.3,1000,south indian,czech colony,59,0.86,0.08823529411764706
+259,adikmet,hyderabad,eatz & drinkzz,300.0,4.5,20,fast food,pannalal complex,51,0.9,0.17647058823529413
+260,sanjeeva reddy nagar,hyderabad,sai brundavan tiffins,200.0,4.3,1000,south indian  chinese,bk guda road,66,0.86,0.11764705882352941
+261,himayatnagar,hyderabad,amantran bengali restaurant,200.0,4.1,100,"bengali,north indian,chinese,home food,thalis,beverages",domalguda,41,0.82,0.11764705882352941
+262,vijaya nagar colony,hyderabad,riyan hotel,300.0,3.5,1000,"hyderabadi,mughlai,biryani,indian,chinese",vijaya nagar colony,35,0.7,0.17647058823529413
+263,adarsh nagar,hyderabad,ohri's cake nation,600.0,4.3,100,"desserts,bakery",new mla quarters,31,0.86,0.35294117647058826
+264,banjara hills,hyderabad,skypark cafe,500.0,4.0,500,"cafe,chinese,continental",road no 12,61,0.8,0.29411764705882354
+265,habsiguda,hyderabad,hotel suprabhat,200.0,4.3,1000,south indian,habsiguda x roads,51,0.86,0.11764705882352941
+266,ghansi bazaar,hyderabad,sai charan dhaba,300.0,4.1,100,"north indian,tandoor",high court road,44,0.82,0.17647058823529413
+267,moghalpura,hyderabad,al - akbar fast food corner,200.0,4.2,500,"north indian,chinese",beside mecca masjid,45,0.8400000000000001,0.11764705882352941
+268,lal darwaza,hyderabad,al hashmi arabian shawarma house,250.0,3.0,20,"street food,arabian",shalibanda,54,0.6,0.14705882352941177
+269,charminar,hyderabad,house of milkshake,200.0,4.1,100,"ice cream,beverages,fast food",inside happy mart,39,0.82,0.11764705882352941
+270,yakhutpura,hyderabad,masqati true juice,200.0,4.0,100,"juices,chaat,beverages,desserts",osman masqati plaza alijah kotla,49,0.8,0.11764705882352941
+271,ghansi bazaar,hyderabad,agra mithai ghar and restaurant,200.0,4.3,50,"sweets,beverages,chaat,desserts,fast food",charkaman,38,0.86,0.11764705882352941
+272,masab tank,hyderabad,diamond pan shop,1000.0,4.4,100,"biryani,tandoor,chinese,indian",masabtank,49,0.8800000000000001,0.5882352941176471
+273,habsiguda,hyderabad,hotel suprabhat multi cuisine restaurant,400.0,4.1,500,"chinese,tandoor,north indian",habsiguda x roads,62,0.82,0.23529411764705882
+274,ameerpet,hyderabad,shri raghavendra pure veg,180.0,4.0,100,south indian,maitrivanam,60,0.8,0.10588235294117647
+275,takara basthi,hyderabad,hotel shri raghavendra pure veg,200.0,4.4,50,south indian,monda market,52,0.8800000000000001,0.11764705882352941
+276,kothapet & dilsukhnagar,hyderabad,homely,200.0,4.1,1000,"home food,south indian,north indian,thalis",kothapet & dilsukhnagar,39,0.82,0.11764705882352941
+277,khairtabad,hyderabad,indira darshini,200.0,4.1,500,"chinese,south indian,fast food,hyderabadi",erramanzal colony rd,49,0.82,0.11764705882352941
+278,banjara hills,hyderabad,creamy n creamy ice stone,150.0,3.8,50,"desserts,fast food,beverages,hyderabadi",sufi chambers road,53,0.76,0.08823529411764706
+279,toli chowki,hyderabad,ice magic,250.0,4.5,100,pizzas,tolichowki,68,0.9,0.14705882352941177
+280,abids,hyderabad,shah icecream,300.0,4.3,20,ice cream,mozzamjahi market,28,0.86,0.17647058823529413
+281,toli chowki,hyderabad,hotel rumaan,300.0,4.2,1000,"biryani,tandoor,north indian,chinese,kebabs,mughlai",tolichowki road,61,0.8400000000000001,0.17647058823529413
+282,gunti jangaiah nagar,hyderabad,dark stone,300.0,3.5,50,"ice cream,beverages",lb nagar main road,63,0.7,0.17647058823529413
+283,abids,hyderabad,lavish corner,120.0,3.9,100,"chinese,indian,beverages,snacks",chapel road,29,0.78,0.07058823529411765
+284,mehdipatnam,hyderabad,al baik shawarma,200.0,4.2,20,arabian,gudi malkapur,49,0.8400000000000001,0.11764705882352941
+285,padmarao nagar,hyderabad,reddy military hotel,250.0,3.7,100,"south indian,hyderabadi,chinese,north indian,andhra",walker town,47,0.74,0.14705882352941177
+286,old malakpet,hyderabad,al baik shawarma & juice point,250.0,4.1,20,"juices,fast food",jamal colony,27,0.82,0.14705882352941177
+287,toli chowki,hyderabad,hotel anand bhavan,150.0,3.9,500,south indian,old mumbai hwy,61,0.78,0.08823529411764706
+288,himayatnagar,hyderabad,nandu fresh fruit juice centre,250.0,3.8,1000,beverages,himayath nagar,27,0.76,0.14705882352941177
+289,ghansi bazaar,hyderabad,mahalaxmi tiffin centre,200.0,4.2,100,indian,ghansi bazaar,42,0.8400000000000001,0.11764705882352941
+290,santosh nagar,hyderabad,balaji dinesh mithai bhandar,200.0,4.1,100,"sweets,snacks",santosh nagar,46,0.82,0.11764705882352941
+291,kothapet,hyderabad,mithaiwala,400.0,4.3,500,"sweets,desserts,snacks,chaat",kothapet,47,0.86,0.23529411764705882
+292,banjara hills,hyderabad,burgasm,350.0,4.3,100,"fast food,american",rd no.5,63,0.86,0.20588235294117646
+293,hyderabad,hyderabad,veggie chinese,150.0,4.0,500,chinese,temple road,59,0.8,0.08823529411764706
+294,padmarao nagar,hyderabad,lucky's biryani house,400.0,3.8,100,biryani  chinese,warasiguda x road,48,0.76,0.23529411764705882
+295,ghansi bazaar,hyderabad,hotel shadab,400.0,4.1,5000,"biryani,north indian,chinese,kebabs",high court road,37,0.82,0.23529411764705882
+296,aliabad,hyderabad,al hashmi arabian shawarma & fast food,150.0,3.6,100,fast food,shah ali banda rd,57,0.72,0.08823529411764706
+297,mehdipatnam,hyderabad,sri vasavi grand,150.0,4.0,500,"south indian,chinese",vv colony,52,0.8,0.08823529411764706
+298,madannapet colony,hyderabad,redaan restaurant,250.0,3.8,1000,"chinese,biryani,kebabs,haleem",banu nagar,41,0.76,0.14705882352941177
+299,punjagutta,hyderabad,shanbhag hotel,300.0,3.9,100,south indian  chinese  biryani,panjagutta,54,0.78,0.17647058823529413
+300,new malakpet,hyderabad,lassi corner malakpet,150.0,3.7,100,beverages,behind super bazar bus stop,33,0.74,0.08823529411764706
+301,toli chowki,hyderabad,mohammed's shawarma,150.0,4.0,500,arabian,nanal nagar,55,0.8,0.08823529411764706
+302,uppal,hyderabad,master chef restaurant,300.0,3.8,1000,"chinese,biryani,mughlai,north indian",uppal x roads,62,0.76,0.17647058823529413
+303,redhills,hyderabad,khan-e-khaas,200.0,4.3,20,fast food,opp hp petrol pump,47,0.86,0.11764705882352941
+304,langar houz,hyderabad,dairy den,200.0,4.2,20,ice cream  desserts  beverages,gudimalkapur,54,0.8400000000000001,0.11764705882352941
+305,padmarao nagar,hyderabad,1d cafe,200.0,3.7,20,cafe,padmarao-nagar,53,0.74,0.11764705882352941
+306,khairtabad,hyderabad,kamat hotel,500.0,4.3,1000,"north indian,south indian,fast food",secretariat road,37,0.86,0.29411764705882354
+307,khilwat,hyderabad,dairy den,200.0,3.5,20,"desserts,ice cream,beverages",chowmahallal palace,51,0.7,0.11764705882352941
+308,jam bagh,hyderabad,nrs mamatha darshini,150.0,4.3,500,"south indian,chinese",gowliguda main road,28,0.86,0.08823529411764706
+309,amberpet,hyderabad,papaji-da-dhaba,200.0,4.0,1000,"north indian,chinese,tandoor",new nallakunta,35,0.8,0.11764705882352941
+310,basheer bagh,hyderabad,the thick shake factory,250.0,4.3,100,beverages,abids,27,0.86,0.14705882352941177
+311,somajiguda,hyderabad,lucky multicuisine restaurant,350.0,3.9,1000,"north indian,south indian,tandoor,biryani",raj bhavan quarters colony,51,0.78,0.20588235294117646
+312,uppal,hyderabad,hotel surabhi udupi veg,150.0,4.2,1000,south indian,venkateshwara colony,58,0.8400000000000001,0.08823529411764706
+313,tolichowki,hyderabad,tasty fish fry point,200.0,4.1,20,italian,darusalam road goshal road,35,0.82,0.11764705882352941
+314,jam bagh,hyderabad,scoops tiffin,100.0,4.2,100,south indian,begum bazaar,31,0.8400000000000001,0.058823529411764705
+315,kachiguda,hyderabad,shree ganesh darshini,150.0,3.6,100,south indian,barkatpura,30,0.72,0.08823529411764706
+316,boudhanagar colony,hyderabad,meena bakery,250.0,4.4,100,"bakery,fast food",padmarao nagar,46,0.8800000000000001,0.14705882352941177
+317,kachiguda,hyderabad,nikhils hot&spice chinees fast food,300.0,4.0,1000,chinese,himayathnagar,26,0.8,0.17647058823529413
+318,lakdikapul,hyderabad,suprabath tiffins,300.0,4.2,20,south indian,public garden road,31,0.8400000000000001,0.17647058823529413
+319,humayun nagar,hyderabad,50 fruits,150.0,4.3,100,"juices,beverages,healthy food",humayun nagar,49,0.86,0.08823529411764706
+320,begumpet,hyderabad,a one home foods,220.0,3.7,50,south indian  north indian  mughlai,begumpet,69,0.74,0.12941176470588237
+321,basheer bagh,hyderabad,ghrelin - cafe and patisserie,450.0,4.3,500,"desserts,bakery",sri siva rama towers,36,0.86,0.2647058823529412
+322,himayatnagar,hyderabad,hotel akshaya,300.0,4.3,500,"south indian,north indian",road 7,33,0.86,0.17647058823529413
+323,narayanguda,hyderabad,nic natural ice creams,120.0,4.5,1000,"ice cream,desserts",kmit,23,0.9,0.07058823529411765
+324,santosh nagar,hyderabad,al rabea al arabi cafeteria,250.0,4.3,1000,"lebanese,arabian,fast food",santosh nagar,49,0.86,0.14705882352941177
+325,somajiguda,hyderabad,headquarters,1100.0,2.9,80,"continental,italian,north indian,chinese",raj bhavan rd,60,0.58,0.6470588235294118
+326,himayatnagar,hyderabad,seeta fruit juice centre,200.0,3.4,100,ice cream  beverages,himayath nagar,37,0.6799999999999999,0.11764705882352941
+327,afzal gunj,hyderabad,jalebiwalas mithai bhandar,300.0,3.8,50,desserts  bakery,begum bazaar,38,0.76,0.17647058823529413
+328,himayatnagar,hyderabad,black pearl - hotel central park,300.0,3.3,100,north indian  chinese  indian,basheer bagh,37,0.6599999999999999,0.17647058823529413
+329,feelkhana,hyderabad,hotel mansingh,250.0,4.0,20,"north indian,south indian,chinese",begum bazaar,38,0.8,0.14705882352941177
+330,khairtabad,hyderabad,sri balaji mithai bhandar,300.0,4.3,100,sweets  desserts  beverages,saifabad,32,0.86,0.17647058823529413
+331,punjagutta,hyderabad,by the bay,1200.0,3.7,20,"indian,asian,italian,european",khairatabad,57,0.74,0.7058823529411765
+332,abids,hyderabad,gafoor ice cream,200.0,3.7,20,"ice cream,desserts",mj market,34,0.74,0.11764705882352941
+333,khairtabad,hyderabad,us live pops,150.0,4.8,50,american,begum bazaar main road,50,0.96,0.08823529411764706
+334,begum bazar,hyderabad,simrats dhaba,300.0,4.1,100,"north indian,chinese",begum bazaar main road,31,0.82,0.17647058823529413
+335,abids & koti,hyderabad,balaji vishnu sweet house,150.0,2.9,80,sweets,esamiya bazaar,29,0.58,0.08823529411764706
+336,amberpet,hyderabad,hotel mukrram,300.0,4.1,100,biryani,turab nagar,43,0.82,0.17647058823529413
+337,mehdipatnam,hyderabad,amfah hotel,200.0,4.2,50,"biryani,north indian,chinese",near rytu bazar bus stop,47,0.8400000000000001,0.11764705882352941
+338,kachiguda,hyderabad,makers of milkshakes,300.0,4.3,50,beverages,station road,27,0.86,0.17647058823529413
+339,himayatnagar,hyderabad,barcenos pizza,300.0,3.8,20,"pizzas,beverages",street no 6,33,0.76,0.17647058823529413
+340,kachiguda,hyderabad,lassi shop,100.0,3.1,50,"juices,ice cream",kachiguda,31,0.62,0.058823529411764705
+341,padmarao nagar,hyderabad,balaji papalal mithai wala,200.0,4.2,50,"sweets,desserts",seethafalmandi,53,0.8400000000000001,0.11764705882352941
+342,toli chowki,hyderabad,zafar's fine dine,400.0,4.0,100,"arabian,mughlai,north indian",tolichowki,61,0.8,0.23529411764705882
+343,west marredpally,hyderabad,sindh sahib,200.0,4.5,100,indian,lic colony,78,0.9,0.11764705882352941
+344,hyderabad,hyderabad,phulkaas,200.0,3.8,100,north indian,musheerabad,40,0.76,0.11764705882352941
+345,yousufguda,hyderabad,4in natural fruit juice,250.0,4.0,50,juices  healthy food,srinagar colony,69,0.8,0.14705882352941177
+346,old malakpet,hyderabad,zam zam arabian mandi,300.0,3.7,20,arabian,hitec garden road,37,0.74,0.17647058823529413
+347,dilsukhnagar,hyderabad,sri sai raghavendra udupi veg,100.0,4.1,1000,"south indian,juices,ice cream",krishnaveni nagar,45,0.82,0.058823529411764705
+348,banjara hills,hyderabad,starbucks coffee,400.0,4.2,500,beverages  ice cream,gvk1 mall,58,0.8400000000000001,0.23529411764705882
+349,feelkhana,hyderabad,jashan juice and pizza one,150.0,4.2,100,"beverages,juices",begum bazaar,32,0.8400000000000001,0.08823529411764706
+350,banjara hills,hyderabad,ubq by barbeque nation,300.0,3.7,500,"north indian,chinese,biryani",banjara hills,57,0.74,0.17647058823529413
+351,banjara hills,hyderabad,combo stories by 10d express,200.0,4.1,20,"chinese,indian,thalis,north indian,pan-asian,oriental,kebabs,tandoor,fast food,desserts,asian,combo,grill,hyderabadi,lucknowi,mughlai,bowl company, keventers & more",banjara hills,66,0.82,0.11764705882352941
+352,chandrayangutta,hyderabad,ruby restaurant,250.0,3.6,100,biryani  indian  hyderabadi  fast food  haleem,charminar,67,0.72,0.14705882352941177
+353,kavadiguda,hyderabad,4m biryani house,250.0,4.1,10000,"biryani,north indian,chinese",nallakunta & vidyanagar,41,0.82,0.14705882352941177
+354,habsiguda,hyderabad,amul hav mor @ ice crm den,200.0,4.1,20,"ice cream,desserts,beverages",uppal,52,0.82,0.11764705882352941
+355,dilsukhnagar,hyderabad,sahadeva reddy's southern spice,200.0,4.3,500,south indian,kothapet & dilsukhnagar,38,0.86,0.11764705882352941
+356,darulshifa,hyderabad,pista house,200.0,4.1,1000,bakery  pizzas  haleem,naya pool   charminar,37,0.82,0.11764705882352941
+357,old malakpet,hyderabad,lassi shop - malakpet,100.0,3.5,20,ice cream,kothapet & dilsukhnagar,37,0.7,0.058823529411764705
+358,narayanguda,hyderabad,sri balaji prithviraj family dhaba,400.0,3.9,1000,"north indian,chinese",himayath nagar,29,0.78,0.23529411764705882
+359,saidabad,hyderabad,lassi shop-is sadan cross road,100.0,4.1,20,ice cream,santoshnagar & saidabad,41,0.82,0.058823529411764705
+360,banjara hills,hyderabad,seasons xprs,200.0,4.1,100,"lebanese,arabian",banjara hills,67,0.82,0.11764705882352941
+361,yakutpura,hyderabad,lazzat restaurant,400.0,4.0,1000,"biryani,north indian,chinese,fast food,haleem",charminar,47,0.8,0.23529411764705882
+362,begumpet,hyderabad,sind bakery,250.0,2.9,80,bakery  pizzas,begumpet,62,0.58,0.14705882352941177
+363,gudimalkapur,hyderabad,sri udupi grand,300.0,4.2,100,south indian  chinese  indian,mehdipatnam,50,0.8400000000000001,0.17647058823529413
+364,old malakpet,hyderabad,jain kitchen pure veg restaurant,200.0,4.1,100,"north indian,jain,chinese,tandoor",new malakpet,38,0.82,0.11764705882352941
+365,hyderabad,hyderabad,shah ghouse cafe & restaurant,350.0,4.1,5000,"biryani,chinese,tandoor,mughlai,north indian",lakdikapool,47,0.82,0.20588235294117646
+366,banjara hills,hyderabad,ocean's basket,1500.0,3.8,20,seafood,banjara hills,74,0.76,0.8823529411764706
+367,pathar gatti,hyderabad,al akbar fast food,200.0,4.2,100,"chinese,north indian",charminar,38,0.8400000000000001,0.11764705882352941
+368,koti,hyderabad,eat italy,400.0,4.2,100,"italian,american,pastas,pizzas",abids & koti,35,0.8400000000000001,0.23529411764705882
+369,dilsukhnagar,hyderabad,sri siddhi vinayaka tiffins and meals,100.0,4.3,1000,south indian,dilsukhnagar,46,0.86,0.058823529411764705
+370,jam bagh,hyderabad,temptations,200.0,4.4,100,desserts  beverages,maharaj gunj  jam bagh,31,0.8800000000000001,0.11764705882352941
+371,golconda fort,hyderabad,golconda sugar cane juice,110.0,3.9,50,"juices,ice cream,healthy food",tolichowki,77,0.78,0.06470588235294118
+372,gaddiannaram,hyderabad,bahar biryani cafe,350.0,4.0,100,"biryani,north indian,chinese",kothapet & dilsukhnagar,50,0.8,0.20588235294117646
+373,nampally,hyderabad,cream stone,250.0,4.4,1000,ice cream  desserts  beverages  ice cream cakes,nampally,31,0.8800000000000001,0.14705882352941177
+374,sri durga enclave,hyderabad,bhoomi foods,65.0,4.4,50,"indian,south indian,andhra",kothapet & dilsukhnagar,62,0.8800000000000001,0.03823529411764706
+375,new malakpet,hyderabad,om best paratha,200.0,4.0,1000,north indian,kothapet & dilsukhnagar,37,0.8,0.11764705882352941
+376,himayatnagar,hyderabad,asian pizzeria,300.0,3.0,100,"fast food,pizzas,continental,beverages,desserts",nallakunta & vidyanagar,41,0.6,0.17647058823529413
+377,himayatnagar,hyderabad,huber & holly,500.0,4.2,100,"pizzas,beverages,desserts,ice cream,italian,pastas",himayath nagar,28,0.8400000000000001,0.29411764705882354
+378,tarnaka,hyderabad,hitex santosh family dhaba,300.0,3.7,500,north indian,nacharam police station.,68,0.74,0.17647058823529413
+379,himayath nagar,hyderabad,sri shivshakti jodhpur sweets,150.0,3.5,20,"sweets,snacks",abids,40,0.7,0.08823529411764706
+380,mehdipatnam,hyderabad,sri durga udupi tiffins & meals,150.0,4.0,100,south indian,mehdipatnam,59,0.8,0.08823529411764706
+381,dilsukhnagar,hyderabad,varalakshmi tiffins,300.0,4.3,1000,south indian,kothapet & dilsukhnagar,50,0.86,0.17647058823529413
+382,narayanguda,hyderabad,new york waffles & dinges,300.0,3.3,20,"desserts,beverages,fast food",old mla quarters road,36,0.6599999999999999,0.17647058823529413
+383,banjara hills,hyderabad,balaji sitaram mithai bhandar,150.0,4.1,20,"sweets,fast food",nampally,37,0.82,0.08823529411764706
+384,new mallepally,hyderabad,turkish central,200.0,3.5,1000,"turkish,arabian",mallepally,39,0.7,0.11764705882352941
+385,abids,hyderabad,masqati ice cream,300.0,4.3,100,"ice cream,pizzas,desserts",karimabad cooperative society abids,31,0.86,0.17647058823529413
+386,tad bun,hyderabad,new deccan bakers and sweet shop,100.0,3.7,50,"sweets,north indian,bakery",mecca colony kalapather,58,0.74,0.058823529411764705
+387,kavadiguda,hyderabad,azaan bait al mandi,350.0,3.9,100,biryani,rtc x roads,33,0.78,0.20588235294117646
+388,shivaji nagar,hyderabad,eagles pizza,150.0,4.0,500,pizzas,s.p.road  secunderabad,63,0.8,0.08823529411764706
+389,uppal,hyderabad,maggi bowl,200.0,2.7,20,fast food,prashant nagar,71,0.54,0.11764705882352941
+390,nampally,hyderabad,balaji mithai bhandar,300.0,4.2,100,sweets,ek minar masjid raoad,26,0.8400000000000001,0.17647058823529413
+391,koti,hyderabad,lassi hub,150.0,4.1,20,ice cream,esamiya bazaar koti,26,0.82,0.08823529411764706
+392,uppal,hyderabad,karthikeya tiffins pure veg,150.0,4.1,500,south indian,uppal,62,0.82,0.08823529411764706
+393,new malakpet,hyderabad,jai bhavani tiffins,150.0,3.8,20,south indian  beverages,anand nagar amber bagh road line,32,0.76,0.08823529411764706
+394,himayatnagar,hyderabad,trupthi deluxe mess,200.0,3.5,20,south indian,himayat nagar,35,0.7,0.11764705882352941
+395,lnt mall musarambagh,hyderabad,kfc,400.0,4.0,1000,"american,fast food,snacks",lnt mall musarambagh,35,0.8,0.23529411764705882
+396,new malakpet,hyderabad,taco bell,300.0,3.8,500,mexican,l&t mall malakpet,37,0.76,0.17647058823529413
+397,new nallakunta,hyderabad,sri santosh family dhaba,100.0,4.0,100,"sweets,fast food",shivamroad,38,0.8,0.058823529411764705
+398,west marredpally,hyderabad,magic on tongue,200.0,4.2,100,north indian  rajasthani  sweets  chaat  indian  snacks  street food  home food,syndicate bank colony  west marredpally,81,0.8400000000000001,0.11764705882352941
+399,banjara hills,hyderabad,la pino'z pizza,300.0,4.0,1000,pizzas,road number 12,56,0.8,0.17647058823529413
+400,tarnaka,hyderabad,rs fast food center,150.0,3.8,100,"chinese,fast food",nacharam main road,63,0.76,0.08823529411764706
+401,kothapet,hyderabad,vasireddy swagruha foods,350.0,4.2,100,sweets  south indian  north indian  snacks,kothapet,54,0.8400000000000001,0.20588235294117646
+402,old malakpet,hyderabad,subbayya gari hotel,300.0,4.1,1000,south indian,sri krupa market malakpet,29,0.82,0.17647058823529413
+403,moghalpura,hyderabad,chinese hut fast food,150.0,3.6,100,"chinese,fast food",charminar,45,0.72,0.08823529411764706
+404,amberpet,hyderabad,deccan chinese fast food,200.0,2.9,80,"chinese,fast food",uppal ramanthapur amberpet,51,0.58,0.11764705882352941
+405,padmarao nagar,hyderabad,nitchal grand restaurant,250.0,2.9,80,"north indian,chinese,tandoor,biryani",padmarao nagar,53,0.58,0.14705882352941177
+406,amberpet,hyderabad,good lands restaurant,300.0,4.2,100,"biryani,north indian,south indian,tandoor,chinese",tarnaka nacharam & malkajigiri,60,0.8400000000000001,0.17647058823529413
+407,khairtabad,hyderabad,the pani puri monster,100.0,2.9,80,"indian,chinese,south indian,chaat",anand nagar,56,0.58,0.058823529411764705
+408,toli chowki,hyderabad,dosa factory,100.0,4.1,500,south indian,tolochowki cross roads,73,0.82,0.058823529411764705
+409,koti,hyderabad,svm grand,300.0,4.2,20,"south indian,north indian,chinese",abids & koti,32,0.8400000000000001,0.17647058823529413
+410,kothapet,hyderabad,royal fast food,150.0,4.0,20,chinese,kothapet & dilshuknagar,58,0.8,0.08823529411764706
+411,banjara hills,hyderabad,feranoz,500.0,4.4,500,"desserts,italian,bakery,snacks,pizzas",zahara nagar banjara hills,59,0.8800000000000001,0.29411764705882354
+412,begumpet,hyderabad,bakingo,300.0,4.2,500,bakery  desserts  beverages  snacks,secunderabad,57,0.8400000000000001,0.17647058823529413
+413,jubilee hills,hyderabad,panchakattu dosa,100.0,4.5,500,south indian,banjara hills,73,0.9,0.058823529411764705
+414,talab katta,hyderabad,moghal hot spot,200.0,3.2,20,"biryani,chinese",charminar,52,0.64,0.11764705882352941
+415,nalgonda,hyderabad,suprabhat tiffins.,300.0,4.2,50,south indian  north indian,kothapet & dilsukhnagar,31,0.8400000000000001,0.17647058823529413
+416,bowenpally,hyderabad,trio-la patisserie.,300.0,2.9,80,desserts,kharkhana & trimulgherry,75,0.58,0.17647058823529413
+417,toli chowki,hyderabad,mandar restaurant,500.0,4.1,1000,"north indian,biryani,chinese",tolichowki,59,0.82,0.29411764705882354
+418,kothapet,hyderabad,quik cakes.,500.0,2.9,80,"bakery,desserts",madhapur,56,0.58,0.29411764705882354
+419,banjara hills,hyderabad,speedy wong,300.0,3.8,20,chinese,banjara hills,63,0.76,0.17647058823529413
+420,himayath nagar,hyderabad,the bowl company,300.0,4.1,1000,"continental,indian,pan-asian,chinese,beverages,desserts",himayath nagar,31,0.82,0.17647058823529413
+421,koti,hyderabad,mccafe by mcdonald's,250.0,2.9,80,"beverages,desserts",abits mpm mall,35,0.58,0.14705882352941177
+422,abids,hyderabad,abids bistro  royalton hotel,450.0,2.9,80,"chinese,kebabs,north indian,south indian,tandoor",abids & koti,57,0.58,0.2647058823529412
+423,himayath nagar,hyderabad,cfc chinese food court,200.0,2.9,80,chinese,himayath nagar,37,0.58,0.11764705882352941
+424,himayath nagar,hyderabad,breakfast express,200.0,4.3,100,continental  north indian  south indian  beverages,himayath nagar,33,0.86,0.11764705882352941
+425,ghansi bazaar,hyderabad,coffee cream,200.0,4.0,100,"beverages,fast food,italian,snacks",charminar,47,0.8,0.11764705882352941
+426,banjara hills,hyderabad,ohri's uppu,400.0,3.0,20,"andhra,south indian",banjara hills,68,0.6,0.23529411764705882
+427,toli chowki,hyderabad,adam bakers,150.0,3.9,50,bakery,tolichowki,68,0.78,0.08823529411764706
+428,jam bagh,hyderabad,swathi mess and dhaba,200.0,3.9,500,"biryani,chinese,hyderabadi,north indian,indian",abids & koti,31,0.78,0.11764705882352941
+429,himayatnagar,hyderabad,masala republic,500.0,4.1,20,"continental,north indian",himayath nagar,41,0.82,0.29411764705882354
+430,khairtabad,hyderabad,al karam kalyani biryani,200.0,3.1,20,biryani,somajiguda & khairtabad,55,0.62,0.11764705882352941
+431,kavadiguda,hyderabad,sri mohans chat,150.0,4.1,50,"beverages,chaat,fast food,juices,north indian",nallakunta & vidyanagar,40,0.82,0.08823529411764706
+432,nampally,hyderabad,milan juice centre,150.0,4.0,1000,"arabian,juices",nampally,30,0.8,0.08823529411764706
+433,uppal,hyderabad,tif in,150.0,3.5,20,snacks  south indian,uppal beerappagada,73,0.7,0.08823529411764706
+434,kavadiguda,hyderabad,veerji ka dhaba,200.0,4.1,100,north indian,himayath nagar,39,0.82,0.11764705882352941
+435,vijay nagar colony,hyderabad,roosterville,200.0,3.7,100,indian,santoshnagar & saidabad,68,0.74,0.11764705882352941
+436,new malakpet,hyderabad,pvr cafe,400.0,3.5,20,"snacks,fast food,american",kothapet & dilsukhnagar,47,0.7,0.23529411764705882
+437,gowliguda,hyderabad,hotel niagara,450.0,3.9,1000,"haleem,arabian,biryani,tandoor,chinese,indian,desserts,kebabs,mughlai",new area,23,0.78,0.2647058823529412
+438,asif nagar,hyderabad,lingaiah hotel,200.0,4.5,100,south indian,mallepally,33,0.9,0.11764705882352941
+439,kavadiguda,hyderabad,aamantran - mithaaii,200.0,3.7,50,"chaat,snacks,bakery,sweets",nallakunta & vidyanagar,43,0.74,0.11764705882352941
+440,khairtabad,hyderabad,anupama hotel,250.0,3.7,20,"biryani,south indian",banjara hills,45,0.74,0.14705882352941177
+441,santosh nagar,hyderabad,balaji mithai wala & chat,150.0,4.0,100,sweets,santosh nagar,45,0.8,0.08823529411764706
+442,punjagutta,hyderabad,arya bhavan pure veg,200.0,4.2,100,indian,nagarjuna hills  punjagutta,53,0.8400000000000001,0.11764705882352941
+443,himayatnagar,hyderabad,stikstof,500.0,2.9,80,ice cream,himayatnagar,49,0.58,0.29411764705882354
+444,rani gunj,hyderabad,aashirvad tiffins,200.0,4.2,500,south indian  fast food  chinese  snacks  juices,begumpet,51,0.8400000000000001,0.11764705882352941
+445,himayath nagar,hyderabad,rice++,100.0,3.9,20,healthy food,narayanguda,33,0.78,0.058823529411764705
+446,himayath nagar,hyderabad,eggsplode,150.0,4.2,100,"salads,french,beverages,combo",narayanguda,33,0.8400000000000001,0.08823529411764706
+447,himayath nagar,hyderabad,break the bread - sandwiches and burgers,200.0,3.8,50,"continental,fast food",narayanguda,35,0.76,0.11764705882352941
+448,himayath nagar,hyderabad,the burrito bowl,200.0,4.2,50,mexican  beverages,narayanguda,34,0.8400000000000001,0.11764705882352941
+449,banjara hills,hyderabad,lo! - low carb and keto foods,150.0,4.3,500,healthy food  keto  north indian  continental,devera konda basti,61,0.86,0.08823529411764706
+450,kharkhana & trimulgherry,hyderabad,brown bear,250.0,3.4,20,bakery  desserts,kharkhana & trimulgherry,76,0.6799999999999999,0.14705882352941177
+451,tarnaka,hyderabad,ssv -tiffin's and snacks,149.0,4.3,100,south indian  snacks  combo,tarnaka  nacharam & malkajigiri,61,0.86,0.08764705882352941
+452,banjara hills,hyderabad,cafe niloufer premium lounge,200.0,4.5,1000,bakery  fast food  snacks  beverages,banjara hills,63,0.9,0.11764705882352941
+453,dilsukhnagar,hyderabad,telangana inti ruchulu,200.0,4.3,500,"south indian,telangana,home food",kothapet & dilsukhnagar,52,0.86,0.11764705882352941
+454,old malakpet,hyderabad,kekiz cake shop,100.0,3.6,20,bakery,malakpet,39,0.72,0.058823529411764705
+455,tarnaka,hyderabad,sudarshan reddy pure ghee sweets,200.0,4.4,100,desserts  sweets,tarnaka  nacharam & malkajigiri,51,0.8800000000000001,0.11764705882352941
+456,balkampet,hyderabad,persis cafe,300.0,4.2,50,indian,ameerpet,66,0.8400000000000001,0.17647058823529413
+457,himayatnagar,hyderabad,cheesiaano pizza,300.0,4.0,100,"italian,pizzas",vivek nagar chikkadpally,34,0.8,0.17647058823529413
+458,abids,hyderabad,faasos,200.0,4.0,50,"combo,snacks,beverages,desserts",abids,37,0.8,0.11764705882352941
+459,abids,hyderabad,behrouz biryani,500.0,3.8,100,"biryani,mughlai,lucknowi,hyderabadi,kebabs,north indian,persian,desserts",abids,36,0.76,0.29411764705882354
+460,abids,hyderabad,oven story pizza,600.0,3.9,500,pizzas,abids,37,0.78,0.35294117647058826
+461,abids,hyderabad,firangi bake,400.0,3.9,50,"italian,mexican,pastas",abids,39,0.78,0.23529411764705882
+462,abids,hyderabad,sweet truth - cake and desserts,450.0,3.9,50,"ice cream,bakery,desserts,beverages",abids,37,0.78,0.2647058823529412
+463,abids,hyderabad,the good bowl,400.0,3.9,50,north indian  punjabi  biryani  combo  chinese  beverages  desserts  jain  indian  hyderabadi  mughlai,abids,37,0.78,0.23529411764705882
+464,abids,hyderabad,the biryani life,250.0,4.0,20,"biryani,north indian,chinese",abids,35,0.8,0.14705882352941177
+465,abids,hyderabad,lunchbox,200.0,4.1,100,"north indian,punjabi,combo,biryani,healthy food,jain,thalis,indian,mughlai,desserts",abids,36,0.82,0.11764705882352941
+466,himayath nagar,hyderabad,eggasm,200.0,4.0,20,"chinese,indian",himayath nagar,28,0.8,0.11764705882352941
+467,kothapet,hyderabad,palamuru grill,600.0,4.1,1000,"south indian,kebabs,biryani",kothapet & dilsukhnagar,63,0.82,0.35294117647058826
+468,gowlipura,hyderabad,kitchen maha raja,250.0,4.3,20,indian,kothapet & dilsukhnagar,52,0.86,0.14705882352941177
+469,banjara hills,hyderabad,express by ab's,350.0,3.7,100,"biryani,north indian,chinese,south indian",banjara hills,67,0.74,0.20588235294117646
+470,new malakpet,hyderabad,burger king,350.0,4.1,1000,"american,fast food",metro rail mall multiplex,36,0.82,0.20588235294117646
+471,himayath nagar,hyderabad,cafe bahar since 1973,300.0,4.0,5000,"mughlai,biryani,indian,chinese,tandoor",himayath nagar,29,0.8,0.17647058823529413
+472,west marredpally,hyderabad,the starter,250.0,4.4,20,chaat  street food  beverages  home food  salads  snacks,kharkhana & trimulgherry,72,0.8800000000000001,0.14705882352941177
+473,new malakpet,hyderabad,mandi king arabian restaurant,500.0,3.9,1000,"arabian,tandoor,north indian,chinese,desserts",kurmagudasaidabad main road,33,0.78,0.29411764705882354
+474,banjara hills,hyderabad,sauced up,200.0,4.4,500,"american,fast food",masab tank,47,0.8800000000000001,0.11764705882352941
+475,madannapet colony,hyderabad,rumaan restaurant,300.0,4.0,100,"biryani,tandoor,north indian,chinese,kebabs,mughlai",santoshnagar & saidabad,44,0.8,0.17647058823529413
+476,lakdikapul,hyderabad,arabella house of arabic & lebanese cuisine,1000.0,3.7,20,indian,banjara hills,53,0.74,0.5882352941176471
+477,lakdikapul,hyderabad,pathemari kerala restaurant,300.0,4.1,500,"kerala,south indian",nampally metro station,30,0.82,0.17647058823529413
+478,uppal,hyderabad,seema ruchulu,300.0,3.6,100,"indian,south indian",uppal,65,0.72,0.17647058823529413
+479,kavadiguda,hyderabad,tempteas,100.0,3.4,20,beverages  snacks,nallakunta & vidyanagar,40,0.6799999999999999,0.058823529411764705
+480,kothapet,hyderabad,nic natural ice creams,120.0,4.5,1000,ice cream  desserts,magic spoons enterprises,46,0.9,0.07058823529411765
+481,begumpet,hyderabad,cakes11,200.0,4.0,100,bakery  desserts,banjara hills,62,0.8,0.11764705882352941
+482,narayanguda,hyderabad,jenny's brownies,300.0,3.2,20,"desserts,beverages",old mla quarters road,32,0.64,0.17647058823529413
+483,narayanguda,hyderabad,miami shakes & more,300.0,3.0,100,"beverages,desserts",old mla quarters road,31,0.6,0.17647058823529413
+484,kothapet & dilshuknagar,hyderabad,chung hua estd 1983,300.0,3.9,500,"chinese,asian,thai,seafood,singaporean",kothapet & dilshuknagar,58,0.78,0.17647058823529413
+485,new malakpet,hyderabad,melting pot,400.0,3.7,50,"chinese,north indian",kothapet & dilsukhnagar,43,0.74,0.23529411764705882
+486,malakpet,hyderabad,rabiyas kitchen,250.0,4.2,50,indian,santoshnagar & saidabad,45,0.8400000000000001,0.14705882352941177
+487,himayatnagar,hyderabad,a bleu basil,700.0,4.1,100,indian,himayath nagar,36,0.82,0.4117647058823529
+488,himayatnagar,hyderabad,zomoz-the momo company,150.0,4.3,500,"fast food,tibetan,chinese",himayath nagar,31,0.86,0.08823529411764706
+489,khairtabad,hyderabad,babai express,200.0,3.7,20,snacks  south indian  telangana,lakdikapul,39,0.74,0.11764705882352941
+490,punjagutta,hyderabad,cookie man next galleria punjagutta,200.0,4.1,20,bakery  desserts  australian  snacks,banjara hills,73,0.82,0.11764705882352941
+491,adikmet,hyderabad,euphoria,800.0,4.7,100,desserts,himayath nagar,27,0.9400000000000001,0.47058823529411764
+492,khairtabad,hyderabad,ek pyali chai,150.0,4.2,50,beverages  chaat  desserts  fast food  juices,lakdikapul,36,0.8400000000000001,0.08823529411764706
+493,saidabad,hyderabad,karachi bakery santoshnagar,200.0,4.6,50,bakery  desserts  fast food  snacks,santoshnagar & saidabad,49,0.9199999999999999,0.11764705882352941
+494,banjara hills,hyderabad,nanking c.r - estd 1957,600.0,4.3,500,indian,banjara hills,75,0.86,0.35294117647058826
+495,narayanguda,hyderabad,starboy pizza & shakes,300.0,3.6,100,"pizzas,american,fast food,desserts,beverages",old mla quarters road,36,0.72,0.17647058823529413
+496,banjara hills,hyderabad,govi's organic foods,300.0,4.7,100,sweets  desserts  snacks  home food  indian,khairtabad,45,0.9400000000000001,0.17647058823529413
+497,banjara hills,hyderabad,inox,400.0,2.9,80,fast food,hyderabad gvk one,64,0.58,0.23529411764705882
+498,kachiguda,hyderabad,lassi corner,150.0,4.1,100,"hyderabadi,desserts,fast food",barkathpura,28,0.82,0.08823529411764706
+499,himayatnagar,hyderabad,fruitfull,150.0,4.2,500,healthy food,himayat nagar,28,0.8400000000000001,0.08823529411764706
+500,himayatnagar,hyderabad,the belgian waffle co.,200.0,4.4,500,"desserts,beverages",zee plaza,39,0.8800000000000001,0.11764705882352941
+501,redhills,hyderabad,imperial multi-cuisine restaurant,400.0,4.0,1000,"biryani,tandoor,north indian,chinese,kebabs,mughlai",banjara hills,39,0.8,0.23529411764705882
+502,himayatnagar,hyderabad,gabru di chaap,300.0,3.9,100,"fast food,north indian",himayath nagar,35,0.78,0.17647058823529413
+503,abids & koti,hyderabad,pure veg meals by lunchbox,200.0,4.2,20,north indian  desserts  biryani,abids,36,0.8400000000000001,0.11764705882352941
+504,ameerpet,hyderabad,scoops ameerpet,250.0,2.9,80,ice cream  desserts  beverages,ameerpet,65,0.58,0.14705882352941177
+505,gaddiannaram,hyderabad,a-1 chicken pakoda,250.0,4.0,1000,"biryani,kebabs,indian,chinese,mughlai,fast food",kothapet & dilsukhnagar,40,0.8,0.14705882352941177
+506,himayatnagar,hyderabad,the waffle co,200.0,4.1,100,"ice cream,desserts,beverages",himayathnagar,33,0.82,0.11764705882352941
+507,banjara hills,hyderabad,hard rock cafe hyderabad,900.0,4.0,100,"american,continental,indian",balapur basthi,66,0.8,0.5294117647058824
+508,habsiguda,hyderabad,r r fast food,150.0,3.2,20,chinese,uppal,53,0.64,0.08823529411764706
+509,nacharam,hyderabad,pizza paradise,300.0,4.3,20,fast food,tarnaka nacharam & malkajigiri,73,0.86,0.17647058823529413
+510,banjara hills,hyderabad,iqbatan restaurant,500.0,2.9,80,"arabian,mughlai,indian",banjara hills,57,0.58,0.29411764705882354
+511,kavadiguda,hyderabad,okra - marriott,1000.0,3.9,500,"north indian,chinese,biryani",kavadiguda,70,0.78,0.5882352941176471
+512,kothapet,hyderabad,gv's hotel godavari,150.0,4.3,100,indian,kothapet & dilsukhnagar,57,0.86,0.08823529411764706
+513,banjara hills,hyderabad,superlean meals,300.0,4.2,100,healthy food  juices  continental,zahra nagar,63,0.8400000000000001,0.17647058823529413
+514,toli chowki,hyderabad,the frozen village,300.0,2.9,80,desserts,tolichowki,84,0.58,0.17647058823529413
+515,jubilee hills,hyderabad,chopstick chan,200.0,4.1,50,chinese,madhapur,76,0.82,0.11764705882352941
+516,kothapet,hyderabad,corner bowls,200.0,3.1,20,"indian,italian,fast food",sai tirumala nivas green hills colony,62,0.62,0.11764705882352941
+517,ameerpet,hyderabad,hd restaurant,150.0,3.5,20,south indian  chinese  fast food  desserts  beverages,ameerpet,71,0.7,0.08823529411764706
+518,abids,hyderabad,famous ice cream,150.0,4.3,500,ice cream,nampally,24,0.86,0.08823529411764706
+519,basheer bagh,hyderabad,italian express,350.0,3.4,100,"italian,mongolian,jain",basheer bagh,35,0.6799999999999999,0.20588235294117646
+520,brindavan colony,hyderabad,aaha emi ruchi,400.0,4.5,20,"biryani,south indian,north indian",santoshnagar & saidabad,65,0.9,0.23529411764705882
+521,saidabad,hyderabad,klip2deal homefood,200.0,2.9,80,indian,santoshnagar & saidabad,50,0.58,0.11764705882352941
+522,himayatnagar,hyderabad,haiking chinese restaurant,1000.0,4.3,500,chinese,himayath nagar,35,0.86,0.5882352941176471
+523,koti,hyderabad,shree lalla dhaba,350.0,4.1,100,north indian,abids & koti,27,0.82,0.20588235294117646
+524,abids,hyderabad,slay coffee,200.0,4.1,100,beverages  desserts,abids,40,0.82,0.11764705882352941
+525,nacharam,hyderabad,tasty dragon - chinese kitchen,200.0,4.2,100,chinese,uppal,66,0.8400000000000001,0.11764705882352941
+526,koti,hyderabad,kolhapuri thaska,100.0,3.9,20,"indian,fast food",jambagh,42,0.78,0.058823529411764705
+527,kiran nagar,hyderabad,barbeque nation,600.0,3.4,100,"north indian,chinese,biryani",kothapet,60,0.6799999999999999,0.35294117647058826
+528,ameerpet,hyderabad,chai kings,150.0,4.5,1000,fast food  combo  desserts  beverages,ameerpet,62,0.9,0.08823529411764706
+529,nampally,hyderabad,hotel shezan - exhibition ground,200.0,4.4,100,"indian,biryani,chinese",gandhi bhavan exhibithion ground,29,0.8800000000000001,0.11764705882352941
+530,khairtabad,hyderabad,astoria restaurant,300.0,3.7,20,"biryani,chinese,indian",saifabad,40,0.74,0.17647058823529413
+531,nampally,hyderabad,voulga restaurant,500.0,3.7,20,north indian  chinese  biryani  fast food,aghapura,36,0.74,0.29411764705882354
+532,himayatnagar,hyderabad,saara veg,400.0,4.2,50,"indian,chinese",himayath nagar,36,0.8400000000000001,0.23529411764705882
+533,redhills,hyderabad,biryani tales -by rayalaseema ruchulu,399.0,3.7,20,"biryani,kebabs,hyderabadi,tandoor",banjara hills,39,0.74,0.23470588235294118
+534,redhills,hyderabad,oriental tales - by rayalaseema ruchulu,399.0,2.9,80,"chinese,pan-asian,seafood,oriental",banjara hills,60,0.58,0.23470588235294118
+535,punjagutta,hyderabad,spicy punjabi thalis,400.0,3.6,20,punjabi,banjara hills,64,0.72,0.23529411764705882
+536,himayatnagar,hyderabad,muddapappu avakai.com,300.0,3.9,100,south indian,himayath nagar,31,0.78,0.17647058823529413
+537,narayanguda,hyderabad,old mumbai ice cream,200.0,3.7,20,ice cream,himayath nagar,28,0.74,0.11764705882352941
+538,himayatnagar,hyderabad,waffle studio,300.0,3.6,100,"snacks,indian",himayath nagar,36,0.72,0.17647058823529413
+539,banjara hills,hyderabad,krispy kreme,170.0,4.3,100,desserts  beverages,g v k  one   mall,54,0.86,0.1
+540,kachiguda,hyderabad,cake affair,400.0,2.9,80,bakery,nampally,36,0.58,0.23529411764705882
+541,malkajgiri,hyderabad,inti bhojnam,300.0,3.3,20,south indian,tarnaka  nacharam & malkajigiri,82,0.6599999999999999,0.17647058823529413
+542,khairtabad,hyderabad,express cafe by holiday inn express,800.0,2.9,80,"indian,chinese",somajiguda,67,0.58,0.47058823529411764
+543,saidabad,hyderabad,devikas kitchen - multi cuisine,500.0,2.9,80,"indian,fast food,snacks",saidabad,52,0.58,0.29411764705882354
+544,banjara hills,hyderabad,slurpy shakes,200.0,3.9,50,beverages,banjara hills,63,0.78,0.11764705882352941
+545,banjara hills,hyderabad,cupcake bliss cake & desserts,200.0,4.1,100,desserts  bakery  ice cream,banjara hills,62,0.82,0.11764705882352941
+546,khairtabad,hyderabad,hilton restaurant,300.0,4.2,1000,"north indian,chinese,biryani",somajiguda & khairtabad,47,0.8400000000000001,0.17647058823529413
+547,kothapet,hyderabad,zest kitchen,250.0,3.7,100,"indian,north indian,chinese,biryani,tandoor",roadnumber1srkpuram,63,0.74,0.14705882352941177
+548,banjara hills,hyderabad,sundae everyday ice cream,200.0,3.9,50,"desserts,ice cream",banjara hills,64,0.78,0.11764705882352941
+549,banjara hills,hyderabad,the dessert zone,300.0,4.1,100,"bakery,desserts,ice cream,beverages",banjara hills,63,0.82,0.17647058823529413
+550,mehdipatnam,hyderabad,al madina chicken haleem,150.0,3.3,20,"north indian,chinese,biryani",migh colony,48,0.6599999999999999,0.08823529411764706
+551,banjara hills,hyderabad,warmoven cake & desserts,200.0,4.2,500,"bakery,desserts,ice cream",banjara hills,64,0.8400000000000001,0.11764705882352941
+552,khairtabad,hyderabad,teju mess,200.0,4.0,50,south indian,somajiguda & khairtabad,47,0.8,0.11764705882352941
+553,kothapet,hyderabad,occasionkart.com,800.0,2.9,80,"desserts,bakery",chaitanyapuri,52,0.58,0.47058823529411764
+554,humayun nagar,hyderabad,gulbarga's mama puri & special snacks,149.0,4.1,100,"snacks,desserts",mehdipatnam,52,0.82,0.08764705882352941
+555,himayatnagar,hyderabad,samosa singh,100.0,4.0,500,"fast food,snacks,north indian,desserts,beverages,street food,combo",jawahar nagar,37,0.8,0.058823529411764705
+556,new nallakunta,hyderabad,sri siddhartha tiffins and meals,150.0,4.3,1000,"beverages,south indian",nallakunta & vidyanagar,35,0.86,0.08823529411764706
+557,ameerpet,hyderabad,2 chefs cafe,100.0,3.9,100,snacks  fast food  beverages,ameerpet,62,0.78,0.058823529411764705
+558,zamistanpur,hyderabad,snehitha restaurant,160.0,4.4,100,"south indian,indian",himayath nagar,37,0.8800000000000001,0.09411764705882353
+559,banjara hills,hyderabad,chandni chowk,150.0,3.8,50,north indian  combo  street food  fast food  beverages,banjara hills,49,0.76,0.08823529411764706
+560,begumpet,hyderabad,retro junks,150.0,4.6,50,snacks,somajiguda & khairtabad,67,0.9199999999999999,0.08823529411764706
+561,new nallakunta,hyderabad,pizza hut,350.0,3.7,500,pizzas  fast food,shivam road,46,0.74,0.20588235294117646
+562,new gayatri nagar,hyderabad,wholesale cakes,300.0,3.4,50,bakery  desserts,kothapet & dilsukhnagar,67,0.6799999999999999,0.17647058823529413
+563,kothapet,hyderabad,kings natraj bakers,300.0,4.0,20,fast food,manikonda,56,0.8,0.17647058823529413
+564,lb nagar,hyderabad,sri venkateshwara tiffin's,300.0,2.9,80,north indian,lb nagar,77,0.58,0.17647058823529413
+565,kalyan nagar x roads,hyderabad,gelatica gelato - ice cream & sorbet the finest,200.0,4.5,50,ice cream  desserts,ameerpet,71,0.9,0.11764705882352941
+566,new gayatri nagar,hyderabad,special cakes,200.0,2.9,80,desserts,kothapet & dilsukhnagar,74,0.58,0.11764705882352941
+567,dilsukhnagar,hyderabad,wok 21 chinese,400.0,3.8,20,"chinese,north indian",kothapet & dilsukhnagar,46,0.76,0.23529411764705882
+568,uppal,hyderabad,madhusudhanreddy hotel,150.0,3.6,20,"south indian,chinese,biryani",uppal,60,0.72,0.08823529411764706
+569,amberpet,hyderabad,bhagmati biryani,250.0,3.6,100,"biryani,telangana",nallakunta & vidyanagar,41,0.72,0.14705882352941177
+570,himayatnagar,hyderabad,brownie heaven,200.0,2.9,80,desserts,himayath nagar,38,0.58,0.11764705882352941
+571,koti,hyderabad,balaji dhaba,400.0,3.6,100,"north indian,biryani,chinese,indian,tandoor",himayath nagar,35,0.72,0.23529411764705882
+572,abids,hyderabad,kamath hotel,200.0,4.4,500,south indian,abids & koti,29,0.8800000000000001,0.11764705882352941
+573,new malakpet,hyderabad,steves kitchen,200.0,3.7,50,"chinese,indian,snacks",kothapet & dilsukhnagar,48,0.74,0.11764705882352941
+574,toli chowki,hyderabad,sounds cheesy,300.0,4.1,100,indian,tolichowki,73,0.82,0.17647058823529413
+575,narayanguda,hyderabad,rolls & bowls by feedx,200.0,3.5,100,"fast food,north indian,snacks,salads,beverages,indian,pastas",himayath nagar,32,0.7,0.11764705882352941
+576,new malakpet,hyderabad,grill station,200.0,3.9,20,indian,kothapet & dilsukhnagar,44,0.78,0.11764705882352941
+577,uppal,hyderabad,marrakesh,300.0,3.8,100,"biryani,north indian,arabian,lebanese",uppal,72,0.76,0.17647058823529413
+578,uppal,hyderabad,urban orient express,300.0,3.6,100,"chinese,thai,seafood,asian",uppal,72,0.72,0.17647058823529413
+579,himayatnagar,hyderabad,the exotic shawarma,250.0,3.8,50,"arabian,fast food",himayath nagar,44,0.76,0.14705882352941177
+580,banjara hills,hyderabad,nasheman hotel  altaf bakery,500.0,4.1,50,"hyderabadi,tandoor,kebabs,grill,biryani",nai basthi ahmed nagar,50,0.82,0.29411764705882354
+581,abids,hyderabad,sohanlal tea time,160.0,2.9,80,beverages  south indian,somajiguda & khairtabad,35,0.58,0.09411764705882353
+582,narayanguda,hyderabad,chickpet donne biryani house,400.0,3.7,100,indian,himayath nagar,28,0.74,0.23529411764705882
+583,banjara hills,hyderabad,swastik udupi vef,48.0,3.4,20,"south indian,snacks",banjara hills,35,0.6799999999999999,0.02823529411764706
+584,abids,hyderabad,natural ice cream,150.0,4.3,100,ice cream,abids,33,0.86,0.08823529411764706
+585,banjara hills,hyderabad,haldirams,200.0,4.3,500,"snacks,indian",banjara hills,63,0.86,0.11764705882352941
+586,karkhana,hyderabad,haldirams,250.0,4.3,1000,indian  fast food,kharkhana & trimulgherry,67,0.86,0.14705882352941177
+587,padma nagar colony,hyderabad,mjr pan shop,100.0,4.2,20,"paan,indian",santoshnagar & saidabad,67,0.8400000000000001,0.058823529411764705
+588,banjara hills,hyderabad,fishland express,350.0,3.8,500,"biryani,chinese,south indian,north indian,tandoor",banjara hills,61,0.76,0.20588235294117646
+589,gowlipura,hyderabad,homely kitchen,200.0,3.8,20,north indian,kothapet & dilsukhnagar,53,0.76,0.11764705882352941
+590,himayatnagar,hyderabad,grabz,250.0,3.8,50,"italian,continental",himayath nagar,35,0.76,0.14705882352941177
+591,toli chowki,hyderabad,great bakers,300.0,4.1,50,"italian,pizzas,pastas,indian,desserts,american",tolichowki,76,0.82,0.17647058823529413
+592,banjara hills,hyderabad,spice 6 global dining,900.0,4.2,100,"indian,fast food,chinese,arabian,desserts",banjara hills,55,0.8400000000000001,0.5294117647058824
+593,himayath nagar,hyderabad,krishna idli and dosa,250.0,3.9,100,"south indian,chinese,pizzas,andhra,hyderabadi,maharashtrian,fast food,salads,beverages,north indian",agarwal chambers,29,0.78,0.14705882352941177
+594,banjara hills,hyderabad,chickn wickn,200.0,3.9,20,"north indian,chinese,biryani",banjara hills,61,0.78,0.11764705882352941
+595,himayatnagar,hyderabad,momo cafe,250.0,3.6,100,chinese,chikkadpally,34,0.72,0.14705882352941177
+596,gowliguda,hyderabad,shawarma and chinese fast food,300.0,2.9,80,indian,himayath nagar,34,0.58,0.17647058823529413
+597,humayun nagar,hyderabad,juice box,150.0,2.9,80,"beverages,snacks",mehdipatnam,54,0.58,0.08823529411764706
+598,mehdipatnam,hyderabad,hottie and spicy chat and juices,200.0,4.4,20,"snacks,beverages",tolichowki,55,0.8800000000000001,0.11764705882352941
+599,banjara hills,hyderabad,onesta,200.0,3.6,1000,"italian,desserts,pizzas,american,snacks",anr center banjara hills,58,0.72,0.11764705882352941
+600,ameerpet,hyderabad,fruit bite natural juices & salads.,200.0,4.4,500,juices,ameerpet,63,0.8800000000000001,0.11764705882352941
+601,himayatnagar,hyderabad,cake l'amore,200.0,4.1,500,"bakery,beverages,desserts",himayath nagar,42,0.82,0.11764705882352941
+602,basheer bagh,hyderabad,the tea tree,100.0,2.9,80,beverages,himayath nagar,36,0.58,0.058823529411764705
+603,chanakyapuri,hyderabad,meghana tiffin center,50.0,4.3,500,south indian,kothapet & dilsukhnagar,64,0.86,0.029411764705882353
+604,huda complex,hyderabad,burger hubs,300.0,2.9,80,"desserts,beverages",kothapet & dilsukhnagar,62,0.58,0.17647058823529413
+605,himayath nagar,hyderabad,big bowl,250.0,3.7,50,chinese,himayath nagar,38,0.74,0.14705882352941177
+606,huda complex,hyderabad,zaika bites,300.0,2.9,80,indian,kothapet & dilsukhnagar,57,0.58,0.17647058823529413
+607,abids,hyderabad,gullu dada's biryani,500.0,3.8,50,"biryani,hyderabadi,desserts",somajiguda & khairtabad,27,0.76,0.29411764705882354
+608,gunrock enclave,hyderabad,maharaja dosa,200.0,3.6,20,south indian,kharkhana & trimulgherry,65,0.72,0.11764705882352941
+609,narayanguda,hyderabad,cakezone,200.0,4.0,1000,"desserts,bakery,sweets,ice cream,beverages,juices,bengali",himayath nagar,30,0.8,0.11764705882352941
+610,uppal,hyderabad,kailas food centre,99.0,2.9,80,south indian,uppal,69,0.58,0.05823529411764706
+611,chudi bazaar,hyderabad,pranav dhaba,200.0,4.1,20,"indian,chinese",begum bazar,42,0.82,0.11764705882352941
+612,banjara hills,hyderabad,house of desserts,300.0,3.9,20,desserts,banjara hills,61,0.78,0.17647058823529413
+613,himayat nagar,hyderabad,shrodinger's pizza,350.0,2.9,80,pizzas,himayat nagar,34,0.58,0.20588235294117646
+614,himayatnagar,hyderabad,farmbowl by urbankisaan,300.0,4.2,500,"healthy food,salads",himayath nagar,27,0.8400000000000001,0.17647058823529413
+615,khairtabad,hyderabad,shree venkateshwara coffee shop,200.0,4.2,20,"north indian,snacks,beverages",banjara hills,40,0.8400000000000001,0.11764705882352941
+616,hakimpet,hyderabad,haleem house,200.0,3.9,100,"north indian,chinese,biryani",tolichowki,64,0.78,0.11764705882352941
+617,ameerpet,hyderabad,surprise india - online cake delivery,200.0,3.7,20,bakery,ameerpet,78,0.74,0.11764705882352941
+618,banjara hills,hyderabad,mendy's burger,500.0,2.9,80,"continental,beverages",banjara hills,68,0.58,0.29411764705882354
+619,padmarao nagar,hyderabad,pkp - pidata kinda pappu,150.0,2.9,80,snacks  indian,nallakunta & vidyanagar,62,0.58,0.08823529411764706
+620,feelkhana,hyderabad,hotel rajdhani,500.0,3.8,20,north indian  south indian  biryani  tandoor,himayath nagar,39,0.76,0.29411764705882354
+621,banjara hills,hyderabad,mandi @36,1000.0,4.1,500,"arabian,continental,haleem",banjara hills,56,0.82,0.5882352941176471
+622,toli chowki,hyderabad,bakewell cake house,100.0,4.1,100,"bakery,fast food,pizzas,sweets",tolichowki,66,0.82,0.058823529411764705
+623,basheer bagh,hyderabad,shahi zaiqa,750.0,4.2,50,biryani  north indian  chinese,himayath nagar,35,0.8400000000000001,0.4411764705882353
+624,banjara hills,hyderabad,udupi dosa house,100.0,4.2,100,south indian,banjara hills,57,0.8400000000000001,0.058823529411764705
+625,golconda fort,hyderabad,saira home made food,300.0,4.4,50,indian,tolichowki,86,0.8800000000000001,0.17647058823529413
+626,kavadiguda,hyderabad,bismillah hotel,100.0,3.4,100,"south indian,thalis,beverages",nallakunta & vidyanagar,40,0.6799999999999999,0.058823529411764705
+627,nampally,hyderabad,mataam al jazirah,300.0,4.2,50,"desserts,arabian,beverages",nampally,36,0.8400000000000001,0.17647058823529413
+628,narayanguda,hyderabad,grameen kulfi,120.0,4.4,100,"ice cream,desserts",kmit,24,0.8800000000000001,0.07058823529411765
+629,kothapet,hyderabad,grameen kulfi,120.0,4.5,100,ice cream  desserts,magic spoons enterprises,46,0.9,0.07058823529411765
+630,velly view enclave,hyderabad,the shawarma spot,160.0,4.0,20,continental,suncity & bandlaguda,35,0.8,0.09411764705882353
+631,toli chowki,hyderabad,pizza store,300.0,2.9,80,"fast food,pizzas",tolichowki,81,0.58,0.17647058823529413
+632,koti,hyderabad,mandi pride,400.0,3.8,20,indian,himayath nagar,34,0.76,0.23529411764705882
+633,himayatnagar,hyderabad,baskin robbins,300.0,4.5,100,"desserts,ice cream",wajihuddin,27,0.9,0.17647058823529413
+634,himayath nagar,hyderabad,khichdi experiment,250.0,4.3,100,"home food,indian,healthy food,north indian,snacks,maharashtrian,sweets,south indian,combo,desserts,beverages,kebabs",himayatnagar,32,0.86,0.14705882352941177
+635,himayath nagar,hyderabad,bowlsome,250.0,3.6,20,"asian,north indian,continental,healthy food,punjabi,home food,oriental,desserts,beverages,pan-asian,bengali,mangalorean,kashmiri,lucknowi,chinese,sweets,kebabs,combo,rajasthani,awadhi",himayatnagar,35,0.72,0.14705882352941177
+636,himayath nagar,hyderabad,paratha experiment,250.0,2.9,80,north indian  punjabi  home food  indian  snacks  combo  desserts  beverages  south indian  continental  chettinad  healthy food  chinese  sweets,himayatnagar,36,0.58,0.14705882352941177
+637,himayath nagar,hyderabad,the biryani experiment,250.0,3.5,20,"biryani,hyderabadi,indian,kebabs,north indian,south indian,andhra,afghani,combo,desserts,beverages,punjabi,kerala,sweets,arabian,lucknowi,parsi,tandoor",himayatnagar,37,0.7,0.14705882352941177
+638,himayath nagar,hyderabad,that pizza place,250.0,2.9,80,pizzas  italian  fast food  desserts  continental  mediterranean  american  mexican  indian  combo  beverages  bakery  french  sweets  european  lebanese  snacks,himayatnagar,36,0.58,0.14705882352941177
+639,new malakpet,hyderabad,sahadeva reddy's chaat chowk,300.0,4.2,50,"chaat,fast food",kothapet & dilsukhnagar,38,0.8400000000000001,0.17647058823529413
+640,shivaji nagar,hyderabad,metro cafe,200.0,3.7,20,indian  fast food  bakery,begumpet,59,0.74,0.11764705882352941
+641,brindavan colony,hyderabad,leos kitchen,350.0,2.9,80,"south indian,north indian",santoshnagar & saidabad,71,0.58,0.20588235294117646
+642,ramnas pura,hyderabad,pizza stories,350.0,2.9,80,pizzas,charminar,59,0.58,0.20588235294117646
+643,huda colony,hyderabad,annapurna mess,200.0,3.7,100,"indian,biryani,chinese",kothapet & dilsukhnagar,50,0.74,0.11764705882352941
+644,peerzadiguda,hyderabad,biryani blend family restaurant,300.0,2.9,80,"biryani,chinese,north indian",uppal,85,0.58,0.17647058823529413
+645,sanjeeva reddy nagar,hyderabad,wowffles,400.0,3.7,50,desserts  bakery,sr nagar,79,0.74,0.23529411764705882
+646,narayanguda,hyderabad,ks bakers,250.0,3.9,100,bakery,himayath nagar,27,0.78,0.14705882352941177
+647,sri sai tarun enclave,hyderabad,bowls kitchen,200.0,3.7,100,"north indian,south indian",kothapet & dilsukhnagar,65,0.74,0.11764705882352941
+648,punjagutta,hyderabad,absolute froot,150.0,2.9,80,beverages,somajiguda & khairtabad,61,0.58,0.08823529411764706
+649,new malakpet,hyderabad,sri balaji tasty tiffins and meals,150.0,2.9,80,south indian,kothapet & dilsukhnagar,33,0.58,0.08823529411764706
+650,punjagutta,hyderabad,om sairam hospitality services,200.0,4.4,100,indian  south indian  chinese,begumpet,67,0.8800000000000001,0.11764705882352941
+651,kothapet,hyderabad,ae-spice villa,380.0,3.0,20,"indian,fast food",kothapet & dilsukhnagar,68,0.6,0.2235294117647059
+652,banjara hills,hyderabad,chef's sandwich,600.0,2.9,80,fast food,banjara hills,67,0.58,0.35294117647058826
+653,banjara hills,hyderabad,burger dude's,600.0,2.9,80,fast food,banjara hills,68,0.58,0.35294117647058826
+654,banjara hills,hyderabad,pange's pizza,600.0,2.9,80,pizzas,banjara hills,68,0.58,0.35294117647058826
+655,banjara hills,hyderabad,blenders & coolers,600.0,2.9,80,"beverages,juices",banjara hills,69,0.58,0.35294117647058826
+656,banjara hills,hyderabad,best pasta,600.0,2.9,80,pastas,banjara hills,69,0.58,0.35294117647058826
+657,khairtabad,hyderabad,vijaya mirchi point,100.0,4.0,50,"street food,indian,south indian,snacks",somajiguda & khairtabad,49,0.8,0.058823529411764705
+658,koti,hyderabad,penang,500.0,4.0,500,"asian,chinese,thai",human tekdi,35,0.8,0.29411764705882354
+659,malkajgiri,hyderabad,chocolate ideas,300.0,3.8,50,desserts  haleem  home food  healthy food  fast food  sweets  beverages,mahendrahills,82,0.76,0.17647058823529413
+660,banjara hills,hyderabad,gol panipuri,500.0,2.9,80,chaat,banjara hills,66,0.58,0.29411764705882354
+661,himayatnagar,hyderabad,frozen bottle,250.0,3.8,100,"beverages,ice cream,desserts",rk saboo plaza,32,0.76,0.14705882352941177
+662,padmarao nagar,hyderabad,saptami grand - udupi veg restaurant,200.0,4.3,100,"south indian,chinese,desserts",nallakunta & vidyanagar,47,0.86,0.11764705882352941
+663,jam bagh,hyderabad,subbu mirchi point,100.0,4.1,100,"street food,indian,snacks",kachiguda,29,0.82,0.058823529411764705
+664,punjagutta,hyderabad,delhi mithaiwala,250.0,4.4,500,sweets  desserts  chaat  snacks  bakery,ameerpet,61,0.8800000000000001,0.14705882352941177
+665,himayatnagar,hyderabad,mohammedia shawarma,300.0,3.8,100,"arabian,lebanese,street food",himayath nagar,31,0.76,0.17647058823529413
+666,pathar gatti,hyderabad,deluxe marhaba,300.0,3.0,20,"arabian,biryani,chinese",charminar,39,0.6,0.17647058823529413
+667,dilsukhnagar,hyderabad,madhu ruchi pure veg restaurant,400.0,3.7,50,chinese  indian,kothapet & dilsukhnagar,45,0.74,0.23529411764705882
+668,dilsukhnagar,hyderabad,monginis,500.0,3.8,20,"bakery,desserts,snacks",kothapet & dilsukhnagar,40,0.76,0.29411764705882354
+669,banjara hills,hyderabad,ciro's pizzeria,1000.0,3.9,100,"pizzas,italian,continental,american,desserts",khairatabad,64,0.78,0.5882352941176471
+670,narayanguda,hyderabad,1441 pizzeria,400.0,4.1,500,"italian,pizzas,pastas,desserts,beverages",himayath nagar,33,0.82,0.23529411764705882
+671,ramgopalpet,hyderabad,new sharma chat house,150.0,4.2,50,chaat  snacks  beverages,begumpet,58,0.8400000000000001,0.08823529411764706
+672,chintal,hyderabad,lucky restaurant,300.0,4.0,10000,"biryani,tandoor,chinese,north indian,desserts,kebabs,mughlai",banjara hills,38,0.8,0.17647058823529413
+673,kavadiguda,hyderabad,nice tiffins,200.0,4.1,20,south indian,nallakunta & vidyanagar,41,0.82,0.11764705882352941
+674,kachiguda,hyderabad,new handi biryani,200.0,3.9,20,"chinese,biryani,kebabs,south indian,beverages",himayath nagar,29,0.78,0.11764705882352941
+675,ameerpet,hyderabad,sai ganesh tiffins,50.0,4.0,100,street food  south indian,ameerpet,64,0.8,0.029411764705882353
+676,himayatnagar,hyderabad,burger bros,200.0,4.0,100,snacks,chikkadpally,33,0.8,0.11764705882352941
+677,moosarambagh,hyderabad,pista house bakery & restaurant,300.0,4.1,1000,"north indian,biryani,tandoor,chinese",kothapet & dilsukhnagar,42,0.82,0.17647058823529413
+678,himayath nagar,hyderabad,gourmet ice cream cakes by baskin robbins,300.0,2.9,80,"desserts,ice cream,bakery",himayath nagar main road,32,0.58,0.17647058823529413
+679,new nallakunta,hyderabad,kung pao kitchen,300.0,4.1,100,chinese,himayath nagar,34,0.82,0.17647058823529413
+680,new nallakunta,hyderabad,jai bhavani spicy hot fast food centre,100.0,3.8,100,"street food,indian,chinese",chikkadpally,29,0.76,0.058823529411764705
+681,toli chowki,hyderabad,arabesq - kunafa & shawarma,200.0,3.7,50,"arabian,lebanese,beverages,juices",mehdipatnam,66,0.74,0.11764705882352941
+682,huda complex,hyderabad,burger eat's,300.0,2.9,80,"snacks,biryani,fast food",kothapet & dilsukhnagar,64,0.58,0.17647058823529413
+683,himayath nagar,hyderabad,arancini,700.0,3.6,100,"pizzas,american,italian,snacks",human tekdi,37,0.72,0.4117647058823529
+684,ameerpet,hyderabad,sri ganesh fruit juice,100.0,4.4,100,street food  indian  beverages,ameerpet,71,0.8800000000000001,0.058823529411764705
+685,kachiguda,hyderabad,patel's chips and crisps,350.0,4.4,100,indian,himayath nagar,25,0.8800000000000001,0.20588235294117646
+686,koti,hyderabad,the indiway,500.0,4.1,100,"north indian,biryani,mughlai,tandoor,snacks",human tekdi,41,0.82,0.29411764705882354
+687,kavadiguda,hyderabad,rushty reataurant chat sandwich and juice,150.0,2.9,80,"fast food,beverages,juices",nallakunta & vidyanagar,51,0.58,0.08823529411764706
+688,mehdipatnam,hyderabad,andhra meals,200.0,4.0,1000,south indian,mehdipatnam,46,0.8,0.11764705882352941
+689,nagole,hyderabad,cake for you,250.0,4.4,20,"bakery,desserts",kothapet & dilsukhnagar,69,0.8800000000000001,0.14705882352941177
+690,kothapet,hyderabad,the burger chefs,500.0,2.9,80,"pizzas,fast food,beverages",nagole x road,67,0.58,0.29411764705882354
+691,ameerpet,hyderabad,hungry burger,200.0,2.9,80,chinese,ameerpet,70,0.58,0.11764705882352941
+692,kothapet,hyderabad,viyaala vaari vindhu,300.0,4.0,50,south indian,kothapet & dilsukhnagar,58,0.8,0.17647058823529413
+693,mehdipatnam,hyderabad,js fast food,250.0,2.9,80,"north indian,indian,snacks,beverages",tolichowki,61,0.58,0.14705882352941177
+694,toli chowki,hyderabad,baithak,450.0,3.7,20,"continental,beverages",tolichowki,71,0.74,0.2647058823529412
+695,sarvodaya colony,hyderabad,the mirchiesz,300.0,3.8,100,"chinese,biryani,indian",kothapet & dilsukhnagar,74,0.76,0.17647058823529413
+696,somajiguda & khairtabad,hyderabad,theobroma,500.0,4.6,500,"desserts,bakery,beverages",somajiguda & khairtabad,52,0.9199999999999999,0.29411764705882354
+697,santoshnagar & saidabad,hyderabad,shawarma station,289.0,3.1,20,"arabian,lebanese",santoshnagar & saidabad,58,0.62,0.17
+698,abids & koti,hyderabad,ram ki bandi,300.0,4.1,100,south indian,himayath nagar,28,0.82,0.17647058823529413
+699,uppal,hyderabad,baskin robbins,250.0,4.0,20,desserts  ice cream,nacharam,61,0.8,0.14705882352941177
+700,tarnaka  nacharam & malkajigiri,hyderabad,chutney bowl,150.0,4.2,500,south indian,tarnaka  nacharam & malkajigiri,61,0.8400000000000001,0.08823529411764706
+701,mehdipatnam,hyderabad,the hyderabad chicken haleem,150.0,3.2,20,haleem,mehdipatnam,53,0.64,0.08823529411764706
+702,tarnaka nacharam & malkajigiri,hyderabad,maharashtrian kitchen,200.0,2.9,80,maharashtrian,tarnaka nacharam & malkajigiri,87,0.58,0.11764705882352941
+703,tolichowki,hyderabad,fried chicken hub,325.0,4.2,100,continental,tolichowki,78,0.8400000000000001,0.19117647058823528
+704,kothapet & dilsukhnagar,hyderabad,five star and koli hut,120.0,4.7,20,indian,kothapet & dilsukhnagar,54,0.9400000000000001,0.07058823529411765
+705,abids & koti,hyderabad,the brooklyn creamery - healthy ice cream,200.0,3.9,20,"desserts,ice cream,healthy food",abids,35,0.78,0.11764705882352941
+706,a.s. rao nagar & sainikpuri,hyderabad,sri sai ak tiffin centre,200.0,4.2,100,indian  south indian,a.s. rao nagar & sainikpuri,83,0.8400000000000001,0.11764705882352941
+707,banjara hills,hyderabad,ab's-absolute barbecues,500.0,3.5,50,"barbecue,biryani,chinese",banjara hills,70,0.7,0.29411764705882354
+708,uppal,hyderabad,waffee & co,200.0,4.4,50,"desserts,waffle",uppal,63,0.8800000000000001,0.11764705882352941
+709,tolichowki,hyderabad,galaxy paradise,250.0,3.6,20,"biryani,chinese",tolichowki,69,0.72,0.14705882352941177
+710,kharkhana & trimulgherry,hyderabad,balaji jainarayan mithai bhandar,300.0,3.8,20,sweets  snacks  bengali,kharkhana & trimulgherry,69,0.76,0.17647058823529413
+711,banjara hills,hyderabad,the bedford bakehouse and tearoom,500.0,2.9,80,continental,banjara hills,74,0.58,0.29411764705882354
+712,ameerpet,hyderabad,abhiruchi swagruha foods,250.0,4.5,100,sweets  snacks,ameerpet,62,0.9,0.14705882352941177
+713,nallakunta & vidyanagar,hyderabad,tasty inn hyderabadi biryani,250.0,2.9,80,"biryani,indian,chinese,seafood",nallakunta & vidyanagar,43,0.58,0.14705882352941177
+714,nallakunta & vidyanagar,hyderabad,chickden,250.0,4.1,20,"indian,arabian,chinese",nallakunta & vidyanagar,44,0.82,0.14705882352941177
+715,kharkhana & trimulgherry,hyderabad,the moringa,150.0,4.1,100,south indian,kharkhana & trimulgherry,70,0.82,0.08823529411764706
+716,himayath nagar,hyderabad,venkateshwara fast food,150.0,3.9,100,"indian,chinese,south indian",himayath nagar,27,0.78,0.08823529411764706
+717,kothapet & dilsukhnagar,hyderabad,sri surya tiffins,150.0,2.9,80,"south indian,chinese,fast food,snacks",kothapet & dilsukhnagar,67,0.58,0.08823529411764706
+718,santoshnagar & saidabad,hyderabad,zaheer juice center,200.0,2.9,80,"juices,beverages",santoshnagar & saidabad,35,0.58,0.11764705882352941
+719,banjara hills,hyderabad,trio la patisserie,300.0,2.9,80,"bakery,desserts",banjara hills,58,0.58,0.17647058823529413
+720,begumpet,hyderabad,trio la patisserie,400.0,2.9,80,bakery  desserts,begumpet,64,0.58,0.23529411764705882
+721,lakdi ka pul,hyderabad,peshawar juice n ice cream,200.0,2.9,20,juices  beverages  desserts,lakdi ka pul,51,0.58,0.11764705882352941
+722,tolichowki,hyderabad,surprise india - cakes & desserts,300.0,2.9,80,desserts,tolichowki,56,0.58,0.17647058823529413
+723,kothapet & dilsukhnagar,hyderabad,belly's icecreams and thickshakes,300.0,2.9,80,"beverages,ice cream",kothapet & dilsukhnagar,46,0.58,0.17647058823529413
+724,tarnaka nacharam & malkajigiri,hyderabad,manu s kitchen,500.0,4.1,100,"chinese,tandoor,seafood,biryani,indian",tarnaka nacharam & malkajigiri,68,0.82,0.29411764705882354
+725,uppal,hyderabad,sh shawarma,200.0,2.9,80,arabian  fast food,uppal,47,0.58,0.11764705882352941
+726,charminar,hyderabad,salasar chat and tiffin centre,100.0,4.2,50,south indian,shamsheergunj,61,0.8400000000000001,0.058823529411764705
+727,charminar,hyderabad,pista house premium lounge,300.0,4.2,1000,"american,fast food,snacks",charminar,46,0.8400000000000001,0.17647058823529413
+728,nallakunta & vidyanagar,hyderabad,guest house coffee and ice cream parlour,300.0,2.9,80,"fast food,pizzas,pastas,beverages",nallakunta & vidyanagar,52,0.58,0.17647058823529413
+729,nallakunta & vidyanagar,hyderabad,radhe family dhaba,300.0,2.9,80,"indian,chinese",nallakunta & vidyanagar,41,0.58,0.17647058823529413
+730,himayath nagar,hyderabad,santosh family dhaba,300.0,3.8,500,"north indian,biryani,chinese,tandoor,indian",himayath nagar,32,0.76,0.17647058823529413
+731,nallakunta & vidyanagar,hyderabad,thaaliyan by phulkaas,200.0,3.8,100,"indian,mughlai",nallakunta & vidyanagar,38,0.76,0.11764705882352941
+732,kothapet & dilsukhnagar,hyderabad,neapolitan pizza,150.0,2.9,80,pizzas,kothapet & dilsukhnagar,63,0.58,0.08823529411764706
+733,himayath nagar,hyderabad,ayezas kitchen,260.0,3.9,50,"indian,hyderabadi",himayath nagar,58,0.78,0.15294117647058825
+734,nallakunta & vidyanagar,hyderabad,saravana udupi hotel,150.0,3.8,50,south indian,nallakunta & vidyanagar,46,0.76,0.08823529411764706
+735,charminar,hyderabad,the mahboob biryani,1500.0,2.9,80,biryani,charminar,38,0.58,0.8823529411764706
+736,charminar,hyderabad,mohammedi confectioners,150.0,3.5,50,"sweets,snacks",charminar,38,0.7,0.08823529411764706
+737,kothapet & dilsukhnagar,hyderabad,new shahi naan,49.0,2.9,80,indian,kothapet & dilsukhnagar,34,0.58,0.028823529411764706
+738,nampally,hyderabad,naseeb hotel,200.0,3.8,20,"indian,biryani",aghapura nampally,36,0.76,0.11764705882352941
+739,banjara hills,hyderabad,shahi rasoi multicuisine family restaurant,750.0,4.1,50,"biryani,desserts,grill",hamayun nagar near nmdc,50,0.82,0.4411764705882353
+740,charminar,hyderabad,burgersuncle,300.0,2.9,80,"american,italian,indian",charminar,50,0.58,0.17647058823529413
+741,banjara hills,hyderabad,tasco bakery,350.0,4.2,20,"bakery,desserts,snacks",banjara hills,49,0.8400000000000001,0.20588235294117646
+742,banjara hills,hyderabad,just bake banjarahills,150.0,2.9,80,bakery  desserts  fast food,banjara hills,68,0.58,0.08823529411764706
+743,uppal,hyderabad,cafe de gardenia,360.0,2.9,80,chinese  indian  biryani,uppal,74,0.58,0.21176470588235294
+744,santoshnagar & saidabad,hyderabad,kings pizza hut,200.0,2.9,80,continental,santoshnagar & saidabad,58,0.58,0.11764705882352941
+745,himayath nagar,hyderabad,a.m.tiffin centre,150.0,4.1,50,south indian,himayath nagar,29,0.82,0.08823529411764706
+746,kothapet & dilsukhnagar,hyderabad,hotel swagath,200.0,4.4,100,north indian,kothapet & dilsukhnagar,43,0.8800000000000001,0.11764705882352941
+747,himayath nagar,hyderabad,roll it up,300.0,3.2,20,"fast food,snacks,italian,chinese,beverages",himayath nagar,32,0.64,0.17647058823529413
+748,charminar,hyderabad,fancy ice cream,40.0,2.9,80,ice cream  desserts,charminar,44,0.58,0.023529411764705882
+749,nallakunta & vidyanagar,hyderabad,arabian mandi house,420.0,2.9,80,arabian,nallakunta & vidyanagar,48,0.58,0.24705882352941178
+750,himayath nagar,hyderabad,i creamy cafe,200.0,2.9,80,north indian,himayath nagar,52,0.58,0.11764705882352941
+751,uppal,hyderabad,sv food court,149.0,2.9,80,"chinese,biryani",uppal,67,0.58,0.08764705882352941
+752,somajiguda & khairtabad,hyderabad,dostea,300.0,2.9,80,beverages  fast food,somajiguda & khairtabad,56,0.58,0.17647058823529413
+753,ameerpet,hyderabad,rayudu juice shop,120.0,4.8,50,juices  beverages  ice cream,ameerpet,63,0.96,0.07058823529411765
+754,santoshnagar & saidabad,hyderabad,s v food court,200.0,2.9,80,chinese,santoshnagar & saidabad,52,0.58,0.11764705882352941
+755,himayath nagar,hyderabad,bake zone bakery&lounge,300.0,2.9,80,"desserts,fast food",himayath nagar,40,0.58,0.17647058823529413
+756,begumpet,hyderabad,ice cream corner,200.0,2.9,80,indian,prakash nagar,72,0.58,0.11764705882352941
+757,nallakunta & vidyanagar,hyderabad,al saud bait al mandi,250.0,4.0,100,arabian,nallakunta & vidyanagar,34,0.8,0.14705882352941177
+758,nallakunta & vidyanagar,hyderabad,chinese fast food,250.0,2.9,80,chinese,nallakunta & vidyanagar,37,0.58,0.14705882352941177
+759,himayath nagar,hyderabad,fish oh fish,400.0,2.9,80,"biryani,tandoor,mughlai",ashok nagar,38,0.58,0.23529411764705882
+760,somajiguda & khairtabad,hyderabad,mahalaxmi tiffin centre,250.0,4.4,20,"south indian,snacks",aghapura,35,0.8800000000000001,0.14705882352941177
+761,banjara hills,hyderabad,royal biryani kabab juice,200.0,2.9,80,"juices,salads",banjara hills,55,0.58,0.11764705882352941
+762,himayath nagar,hyderabad,nice day baquares and ice creams,100.0,2.9,80,chinese,himayath nagar,38,0.58,0.058823529411764705
+763,nallakunta & vidyanagar,hyderabad,bachchu s chaat by phulkaas,200.0,2.9,80,"chaat,snacks",nallakunta & vidyanagar,39,0.58,0.11764705882352941
+764,charminar,hyderabad,ms mandi and shawarma,240.0,4.1,50,indian,charminar,39,0.82,0.1411764705882353
+765,kothapet & dilsukhnagar,hyderabad, sahadeva reddy's biryani durbar,250.0,4.1,50,"biryani,chinese,indian",kothapet & dilsukhnagar,45,0.82,0.14705882352941177
+766,himayath nagar,hyderabad,mast kalandar  the kitchen,300.0,3.8,20,north indian,himayath nagar,32,0.76,0.17647058823529413
+767,himayath nagar,hyderabad,the joint shawarma,400.0,4.0,20,indian,himayath nagar,32,0.8,0.23529411764705882
+768,nampally,hyderabad,sunrise tiffins bakery and fastfood,200.0,2.9,80,"continental,ice cream,bakery,beverages",nampally,40,0.58,0.11764705882352941
+769,santoshnagar & saidabad,hyderabad,pista house restaurant,500.0,4.1,500,"tandoor,indian,chinese,biryani,beverages",santoshnagar & saidabad,48,0.82,0.29411764705882354
+770,nallakunta & vidyanagar,hyderabad,inti ruchi,200.0,4.2,50,indian,nallakunta & vidyanagar,48,0.8400000000000001,0.11764705882352941
+771,charminar,hyderabad,italian hub,250.0,2.9,80,"european,american,chinese",charminar,45,0.58,0.14705882352941177
+772,kothapet & dilsukhnagar,hyderabad,hasrat catering india,300.0,2.9,80,indian,kothapet & dilsukhnagar,46,0.58,0.17647058823529413
+773,somajiguda & khairtabad,hyderabad,biryanis and more,350.0,3.9,100,"biryani,chinese,tandoor",somajiguda & khairtabad,49,0.78,0.20588235294117646
+774,himayath nagar,hyderabad,wahh chaap,300.0,4.1,500,"north indian,biryani",himayath nagar,31,0.82,0.17647058823529413
+775,kothapet & dilsukhnagar,hyderabad,potful - claypot biryanis,500.0,4.0,500,"biryani,kebabs,mughlai,north indian",kothapet & dilsukhnagar,77,0.8,0.29411764705882354
+776,kothapet & dilsukhnagar,hyderabad,wah! kulcha,200.0,3.7,20,fast food,kothapet & dilsukhnagar,77,0.74,0.11764705882352941
+777,himayath nagar,hyderabad,vinayak tiffins,100.0,2.9,80,south indian,himayath nagar,33,0.58,0.058823529411764705
+778,kothapet & dilsukhnagar,hyderabad,lalaji dilli wale chaat,300.0,2.9,80,"chaat,fast food,maharashtrian,beverages",kothapet & dilsukhnagar,66,0.58,0.17647058823529413
+779,kothapet & dilsukhnagar,hyderabad,the country wok,400.0,3.5,100,"chinese,beverages",kothapet & dilsukhnagar,63,0.7,0.23529411764705882
+780,banjara hills,hyderabad,sher-e-punjab dhaba,350.0,2.9,80,"indian,biryani",banjara hills,40,0.58,0.20588235294117646
+781,nallakunta & vidyanagar,hyderabad,mamaz almandi,300.0,2.9,80,indian,nallakunta & vidyanagar,48,0.58,0.17647058823529413
+782,himayath nagar,hyderabad,sunnys chinese,350.0,3.5,20,chinese,himayath nagar,31,0.7,0.20588235294117646
+783,himayath nagar,hyderabad,a bowl affair,300.0,3.3,20,"indian,chinese,combo,beverages",himayath nagar,33,0.6599999999999999,0.17647058823529413
+784,kothapet & dilsukhnagar,hyderabad,nalabheema kitchen,250.0,3.9,100,chinese,kothapet & dilsukhnagar,60,0.78,0.14705882352941177
+785,santoshnagar & saidabad,hyderabad,ssv foods,180.0,2.9,80,snacks,santoshnagar & saidabad,53,0.58,0.10588235294117647
+786,ameerpet,hyderabad,tiny foods homely food court,300.0,4.1,50,indian,ameerpet,76,0.82,0.17647058823529413
+787,charminar,hyderabad,the kunafa station,300.0,3.9,100,desserts,charminar,39,0.78,0.17647058823529413
+788,himayath nagar,hyderabad,swiss castle,500.0,4.6,100,"bakery,sweets,desserts",himayath nagar,28,0.9199999999999999,0.29411764705882354
+789,kachiguda,hyderabad,hotel woodside (veg),200.0,4.5,100,south indian  north indian  chinese,himayath nagar,30,0.9,0.11764705882352941
+790,tarnaka  nacharam & malkajigiri,hyderabad,cupcake bliss cake & desserts,200.0,4.0,20,bakery  desserts  ice cream,tarnaka  nacharam & malkajigiri,72,0.8,0.11764705882352941
+791,santoshnagar & saidabad,hyderabad,anu tiffin center,150.0,3.9,20,south indian,santoshnagar & saidabad,47,0.78,0.08823529411764706
+792,kothapet & dilsukhnagar,hyderabad,monster burger,200.0,3.2,20,"chinese,south indian,snacks,combo,beverages,desserts",kothapet & dilsukhnagar,75,0.64,0.11764705882352941
+793,banjara hills,hyderabad,the clay pot,300.0,2.9,80,north indian,banjara hills,74,0.58,0.17647058823529413
+794,ameerpet,hyderabad,milap pan shop,100.0,4.5,20,paan,ameerpet,67,0.9,0.058823529411764705
+795,kothapet & dilsukhnagar,hyderabad,destino re defined,250.0,2.9,80,"chinese,indian,biryani",kothapet & dilsukhnagar,49,0.58,0.14705882352941177
+796,kothapet & dilsukhnagar,hyderabad,milkshakes hub n more,300.0,2.9,80,beverages,kothapet & dilsukhnagar,68,0.58,0.17647058823529413
+797,kothapet & dilsukhnagar,hyderabad,cake d'licious,250.0,3.9,100,"bakery,desserts",kothapet & dilsukhnagar,50,0.78,0.14705882352941177
+798,nallakunta & vidyanagar,hyderabad,juice it up,150.0,2.9,80,chaat  beverages  juices,nallakunta & vidyanagar,48,0.58,0.08823529411764706
+799,himayath nagar,hyderabad,haldirams,300.0,4.2,100,"indian,biryani,snacks,fast food,beverages",ground floor moti mahal market,33,0.8400000000000001,0.17647058823529413
+800,himayath nagar,hyderabad,la pino'z pizza,400.0,4.0,500,"pizzas,italian,mexican,desserts,fast food,snacks",himayath nagar,33,0.8,0.23529411764705882
+801,kothapet & dilsukhnagar,hyderabad,urban monk fine baking,600.0,2.9,80,fast food,kothapet & dilsukhnagar,73,0.58,0.35294117647058826
+802,himayath nagar,hyderabad,haldirams sweets and namkeen,300.0,4.3,20,"sweets,snacks",ground floor moti mahal market,31,0.86,0.17647058823529413
+803,somajiguda & khairtabad,hyderabad,kushi tiffin center,100.0,2.9,80,south indian,somajiguda & khairtabad,48,0.58,0.058823529411764705
+804,banjara hills,hyderabad,oh! punjab,300.0,4.3,50,"punjabi,north indian,chinese",banjara hills,75,0.86,0.17647058823529413
+805,nampally,hyderabad,halal guys,300.0,2.9,80,"fast food,beverages,ice cream",nampally,48,0.58,0.17647058823529413
+806,nallakunta & vidyanagar,hyderabad,pizza and burgers,300.0,3.3,20,"fast food,pizzas,beverages",nallakunta & vidyanagar,43,0.6599999999999999,0.17647058823529413
+807,vidyanagar,hyderabad,box8 - desi meals,250.0,3.7,50,"north indian,biryani,combo,snacks",ashok nagar,38,0.74,0.14705882352941177
+808,vidyanagar,hyderabad,itminaan biryani - dum pukht,250.0,2.9,80,"north indian,biryani,combo,snacks",ashok nagar,39,0.58,0.14705882352941177
+809,kothapet & dilsukhnagar,hyderabad,new sai kailash dhaba,250.0,4.2,100,"chinese,biryani,combo",kothapet & dilsukhnagar,54,0.8400000000000001,0.14705882352941177
+810,kothapet & dilsukhnagar,hyderabad,agra sandwich pasta  momos corner,300.0,2.9,80,"italian,snacks",kothapet & dilsukhnagar,36,0.58,0.17647058823529413
+811,himayath nagar,hyderabad,deccan chef,150.0,2.9,80,indian,himayath nagar,34,0.58,0.08823529411764706
+812,charminar,hyderabad,swagath hotel,400.0,4.3,100,"south indian,chinese,indian",charminar,44,0.86,0.23529411764705882
+813,tolichowki hps kids school opposite,hyderabad,healthy food house,100.0,2.9,80,indian  fast food  beverages,tolichowki,83,0.58,0.058823529411764705
+814,nallakunta & vidyanagar,hyderabad,lassi n cafe,200.0,2.9,80,"beverages,fast food",nallakunta & vidyanagar,40,0.58,0.11764705882352941
+815,himayath nagar,hyderabad,break the bread-sandwiches and burgers,200.0,3.6,20,healthy food,himayath nagar,35,0.72,0.11764705882352941
+816,himayath nagar,hyderabad,rice++,200.0,2.9,80,healthy food,himayath nagar,36,0.58,0.11764705882352941
+817,tarnaka nacharam & malkajigiri,hyderabad,kritunga restaurant,500.0,3.7,500,"biryani,rayalaseema,andhra,south indian",tarnaka nacharam & malkajigiri,59,0.74,0.29411764705882354
+818,kothapet & dilsukhnagar,hyderabad,fipola grill house,400.0,2.9,80,"seafood,snacks,grill",kothapet & dilsukhnagar,65,0.58,0.23529411764705882
+819,kothapet & dilsukhnagar,hyderabad,reddy vari biryani,250.0,2.9,80,"indian,biryani",kothapet & dilsukhnagar,72,0.58,0.14705882352941177
+820,nallakunta & vidyanagar,hyderabad,polpat,300.0,2.9,80,indian,nallakunta & vidyanagar,50,0.58,0.17647058823529413
+821,kothapet & dilsukhnagar,hyderabad,lalaji dilli wale,400.0,3.4,100,"north indian,chinese,salads",kothapet & dilsukhnagar,65,0.6799999999999999,0.23529411764705882
+822,tarnaka nacharam & malkajigiri,hyderabad,punjabi tadka,250.0,2.9,80,"indian,punjabi,fast food",tarnaka nacharam & malkajigiri,77,0.58,0.14705882352941177
+823,tolichowki,hyderabad,arabian grills,300.0,4.2,100,"arabian,beverages",tolichowki,61,0.8400000000000001,0.17647058823529413
+824,kachiguda,hyderabad,pizza hut,300.0,2.9,80,pizzas,ph kachiguda hyderabad,34,0.58,0.17647058823529413
+825,himayath nagar,hyderabad,dragon society,200.0,3.8,50,"chinese,south indian,north indian,fast food",himayath nagar,34,0.76,0.11764705882352941
+826,charminar,hyderabad,snappy snacks point,200.0,3.4,20,"chinese,snacks",charminar,52,0.6799999999999999,0.11764705882352941
+827,l.b nagar,hyderabad,mr chef mandi house,500.0,3.5,50,arabian,kothapet & dilsukhnagar,59,0.7,0.29411764705882354
+828,himayath nagar,hyderabad,biryani society,200.0,2.9,80,"indian,biryani,combo",himayath nagar,37,0.58,0.11764705882352941
+829,charminar,hyderabad,tajis food court,2.0,2.9,80,indian  south indian  chinese  arabian,charminar,68,0.58,0.001176470588235294
+830,begumpet,hyderabad,vijju ki bandi,200.0,4.0,20,south indian  chaat  sweets,begumpet,61,0.8,0.11764705882352941
+831,banjara hills,hyderabad,lassi & falooda co,200.0,2.9,80,"beverages,healthy food,juices",banjara hills,65,0.58,0.11764705882352941
+832,santoshnagar & saidabad,hyderabad,sri sai ram darshini tiffins and meals,150.0,3.9,100,south indian,santoshnagar & saidabad,43,0.78,0.08823529411764706
+833,ameerpet,hyderabad,shree sweets and naamkeen,499.0,2.9,80,sweets,ameerpet,76,0.58,0.29352941176470587
+834,himayath nagar,hyderabad,theboardgamecafe,500.0,2.9,80,"indian,chinese",himayath nagar,39,0.58,0.29411764705882354
+835,tolichowki,hyderabad,bombay kulfis,100.0,2.9,80,desserts,tolichowki,65,0.58,0.058823529411764705
+836,tolichowki,hyderabad,mandistan,400.0,3.6,20,arabian,tolichowki,69,0.72,0.23529411764705882
+837,banjara hills,hyderabad,wow! china,400.0,3.9,100,"tibetan,fast food,chinese,asian,snacks,continental,desserts,beverages",banjara hills,62,0.78,0.23529411764705882
+838,banjara hills,hyderabad,nizami shawarma,250.0,2.9,80,"arabian,beverages",banjara hills,65,0.58,0.14705882352941177
+839,sithaphalmandi,hyderabad,robin pizza den,200.0,2.9,80,"fast food,pizzas",nallakunta & vidyanagar,59,0.58,0.11764705882352941
+840,tolichowki,hyderabad,shawarma spot,200.0,2.9,80,arabian,tolichowki,76,0.58,0.11764705882352941
+841,himayath nagar,hyderabad,crumbled cheese,350.0,4.3,50,"italian,beverages,pizzas,pastas,desserts,mexican",himayath nagar,39,0.86,0.20588235294117646
+842,banjara hills,hyderabad,vadapav & more,200.0,2.9,80,beverages,banjara hills,63,0.58,0.11764705882352941
+843,himayath nagar,hyderabad,tasim - on the go,300.0,4.3,50,"north indian,snacks",himayath nagar,41,0.86,0.17647058823529413
+844,kothapet & dilsukhnagar,hyderabad,golden dragon,150.0,2.9,80,fast food,kothapet & dilsukhnagar,57,0.58,0.08823529411764706
+845,charminar,hyderabad,cravings,250.0,2.9,80,"fast food,snacks",charminar,58,0.58,0.14705882352941177
+846,tolichowki,hyderabad,coconut juice bar,200.0,4.5,50,"beverages,desserts,healthy food,ice cream,snacks",tolichowki,64,0.9,0.11764705882352941
+847,banjara hills,hyderabad,healing rice bowls,200.0,3.3,20,north indian,banjara hills,70,0.6599999999999999,0.11764705882352941
+848,tolichowki,hyderabad,cane land,150.0,2.9,80,snacks  beverages,tolichowki,88,0.58,0.08823529411764706
+849,kothapet & dilsukhnagar,hyderabad,gully lounge,493.0,2.9,80,"chinese,south indian,biryani,juices,beverages,ice cream",kothapet & dilsukhnagar,67,0.58,0.29
+850,banjara hills,hyderabad,the sandwich story,200.0,2.9,80,"healthy food,snacks",banjara hills,72,0.58,0.11764705882352941
+851,himayath nagar,hyderabad,bachelor burgers,200.0,3.4,20,"continental,italian",himayath nagar,47,0.6799999999999999,0.11764705882352941
+852,kothapet & dilsukhnagar,hyderabad,bakers s street,450.0,2.9,80,fast food  bakery  desserts  beverages,kothapet & dilsukhnagar,58,0.58,0.2647058823529412
+853,charminar,hyderabad,tameems shawarma,270.0,2.9,80,"arabian,snacks",charminar,61,0.58,0.1588235294117647
+854,banjara hills,hyderabad,ath - all things healthy!,200.0,4.0,100,healthy food  indian  keto  snacks  bakery  north indian,banjara hills,63,0.8,0.11764705882352941
+855,uppal,hyderabad,the waffle co,200.0,4.2,50,desserts  beverages,uppal,61,0.8400000000000001,0.11764705882352941
+856,kothapet & dilsukhnagar,hyderabad,hungry treats,200.0,2.9,80,"mexican,pizzas,pastas",kothapet & dilsukhnagar,69,0.58,0.11764705882352941
+857,himayath nagar,hyderabad,house of burger,150.0,2.9,80,"fast food,beverages",nampally,43,0.58,0.08823529411764706
+858,banjara hills,hyderabad,zouq fusion foods,800.0,2.8,20,turkish,banjara hills,83,0.5599999999999999,0.47058823529411764
+859,uppal,hyderabad,natural fruits and juices,200.0,3.8,20,juices  salads,uppal,57,0.76,0.11764705882352941
+860,tolichowki,hyderabad,andhra gunpowder,280.0,4.4,1000,andhra,tolichowki,45,0.8800000000000001,0.16470588235294117
+861,mehdipatnam,hyderabad,bakers magic,350.0,2.9,80,fast food,mehdipatnam,54,0.58,0.20588235294117646
+862,banjara hills,hyderabad,kulfi & falooda project,200.0,2.7,20,"desserts,snacks,beverages,healthy food",banjara hills,67,0.54,0.11764705882352941
+863,ameerpet,hyderabad,coastal chops,300.0,2.9,80,coastal  indian  seafood,ameerpet,75,0.58,0.17647058823529413
+864,kothapet & dilsukhnagar,hyderabad,laddu ji,200.0,2.9,80,sweets,kothapet & dilsukhnagar,44,0.58,0.11764705882352941
+865,kothapet & dilsukhnagar,hyderabad,cakes11,200.0,4.0,100,bakery  desserts,kothapet & dilsukhnagar,64,0.8,0.11764705882352941
+866,nallakunta & vidyanagar,hyderabad,eat neat,200.0,4.2,100,"fast food,lebanese,continental,healthy food",nallakunta & vidyanagar,41,0.8400000000000001,0.11764705882352941
+867,nallakunta & vidyanagar,hyderabad,i love combos,300.0,2.9,80,"continental,pizzas,beverages,fast food",nallakunta & vidyanagar,43,0.58,0.17647058823529413
+868,nallakunta & vidyanagar,hyderabad,sandwich bristo,250.0,2.9,80,"european,snacks,fast food",nallakunta & vidyanagar,45,0.58,0.14705882352941177
+869,nallakunta & vidyanagar,hyderabad,emi burger,400.0,2.9,80,"snacks,beverages,fast food",nallakunta & vidyanagar,45,0.58,0.23529411764705882
+870,charminar,hyderabad,classic ice cream,200.0,2.9,80,"ice cream,desserts",charminar,55,0.58,0.11764705882352941
+871,kothapet & dilsukhnagar,hyderabad,platform 65,400.0,3.3,20,"indian,north indian,chinese,desserts,beverages",kothapet & dilsukhnagar,64,0.6599999999999999,0.23529411764705882
+872,somajiguda & khairtabad,hyderabad,new arabian mandi restaurant,400.0,2.9,80,arabian,somajiguda & khairtabad,63,0.58,0.23529411764705882
+873,mehdipatnam,hyderabad,andhra meals and rolls zone,200.0,2.9,80,"south indian,indian",mehdipatnam,54,0.58,0.11764705882352941
+874,ameerpet,hyderabad,the bakers dozen,350.0,4.7,20,bakery  beverages,ameerpet,67,0.9400000000000001,0.20588235294117646
+875,kachiguda,hyderabad,kfc,400.0,3.8,20,american  snacks,kachiguda,45,0.76,0.23529411764705882
+876,kothapet & dilsukhnagar,hyderabad,chai sutta bar dilsukhnagar,300.0,2.9,80,"beverages,fast food",kothapet & dilsukhnagar,50,0.58,0.17647058823529413
+877,begumpet,hyderabad,tanisi multicuisine restaurant,300.0,2.9,80,"indian,chinese,biryani,continental",begumpet,58,0.58,0.17647058823529413
+878,banjara hills,hyderabad,hero sandwiches,250.0,2.9,80,"fast food,salads,snacks,desserts",banjara hills,68,0.58,0.14705882352941177
+879,khairtabad,hyderabad,hotel indu deluxe,400.0,4.9,20,"south indian,biryani",banjara hills,44,0.9800000000000001,0.23529411764705882
+880,begumpet,hyderabad,kgf italian wood fire pizza,300.0,2.9,80,italian  pizzas,begumpet,77,0.58,0.17647058823529413
+881,himayath nagar,hyderabad,patiala on the rocks,250.0,2.9,80,"beverages,snacks",himayath nagar,33,0.58,0.14705882352941177
+882,banjara hills,hyderabad,mf biryani and shawarma,250.0,2.9,80,biryani,banjara hills,69,0.58,0.14705882352941177
+883,himayath nagar,hyderabad,the burger dudes,250.0,2.9,80,"continental,fast food,snacks",himayath nagar,33,0.58,0.14705882352941177
+884,mehdipatnam,hyderabad,bhavani tiffins,250.0,2.9,80,south indian,mehdipatnam,55,0.58,0.14705882352941177
+885,banjara hills,hyderabad,momos momos,220.0,2.9,80,fast food,banjara hills,75,0.58,0.12941176470588237
+886,banjara hills,hyderabad,meals101,350.0,4.0,100,"chinese,north indian,desserts,beverages",banjara hills,52,0.8,0.20588235294117646
+887,kothapet & dilsukhnagar,hyderabad,millet express,200.0,4.2,1000,healthy food  south indian,kothapet & dilsukhnagar,54,0.8400000000000001,0.11764705882352941
+888,himayath nagar,hyderabad,the shawarma daddy,150.0,2.2,50,"arabian,continental,snacks",himayath nagar,44,0.44000000000000006,0.08823529411764706
+889,santosh nagar,hyderabad,oven story pizza,600.0,4.3,100,pizzas,santosh nagar,66,0.86,0.35294117647058826
+890,ameerpet,hyderabad,hans kitchen,350.0,2.9,80,chinese  north indian,ameerpet,73,0.58,0.20588235294117646
+891,asif nagar,hyderabad,falak restaurant and banquet hall,250.0,2.9,80,"biryani,chinese,mughlai",asif nagar,49,0.58,0.14705882352941177
+892,himayath nagar,hyderabad,govindaas sweet and snacks,200.0,2.9,80,"snacks,fast food",himayath nagar,37,0.58,0.11764705882352941
+893,himayath nagar,hyderabad,star santosh dhaba,300.0,3.4,20,"north indian,biryani,chinese,indian,tandoor",himayath nagar,32,0.6799999999999999,0.17647058823529413
+894,himayath nagar,hyderabad,apple cut,300.0,3.9,50,healthy food  salads  chaat,himayath nagar,35,0.78,0.17647058823529413
+895,kothapet & dilsukhnagar,hyderabad,cakes07,199.0,2.9,80,bakery,kothapet & dilsukhnagar,57,0.58,0.11705882352941177
+896,kothapet & dilsukhnagar,hyderabad,the magical stone,200.0,2.9,80,"ice cream,beverages",kothapet & dilsukhnagar,53,0.58,0.11764705882352941
+897,himayath nagar,hyderabad,panda momos,250.0,2.9,80,chinese,himayath nagar,39,0.58,0.14705882352941177
+898,padmarao nagar,hyderabad,oh my shawarma,300.0,4.3,20,indian,padmaraonagar,55,0.86,0.17647058823529413
+899,kothapet & dilsukhnagar,hyderabad,madhouse pizzas and thichshakes,300.0,2.9,80,"beverages,juices,salads",kothapet & dilsukhnagar,52,0.58,0.17647058823529413
+900,kothapet & dilsukhnagar,hyderabad,mumbai kulfi kothapet,150.0,2.9,80,"ice cream,desserts",kothapet & dilsukhnagar,63,0.58,0.08823529411764706
+901,hyderabad,hyderabad,saapaatu,250.0,2.9,80,"south indian,indian",himayath nagar,34,0.58,0.14705882352941177
+902,kothapet & dilsukhnagar,hyderabad,as bakers,1400.0,2.9,80,"bakery,desserts",kothapet & dilsukhnagar,69,0.58,0.8235294117647058
+903,kothapet & dilsukhnagar,hyderabad,chai vaai cafe,200.0,2.9,80,snacks  indian  chinese,kothapet & dilsukhnagar,55,0.58,0.11764705882352941
+904,kothapet & dilsukhnagar,hyderabad,shri santosh family dhaba,300.0,3.9,500,"north indian,chinese,biryani",kothapet & dilsukhnagar,60,0.78,0.17647058823529413
+905,himayath nagar,hyderabad,balaji family dhaba,350.0,3.4,50,indian  chinese,himayath nagar,46,0.6799999999999999,0.20588235294117646
+906,banjara hills,hyderabad,dosa house restaurant,150.0,2.9,80,south indian  biryani,banjara hills,55,0.58,0.08823529411764706
+907,banjara hills,hyderabad,kaati zone rolls and wraps,200.0,4.3,50,fast food  beverages,banjara hills,66,0.86,0.11764705882352941
+908,banjara hills,hyderabad,burger it up,200.0,4.0,50,"american,continental,beverages,desserts,fast food",banjara hills,68,0.8,0.11764705882352941
+909,banjara hills,hyderabad,kouzina kafe -the food court,200.0,4.2,50,"bakery,ice cream,desserts,beverages,american,fast food",banjara hills,65,0.8400000000000001,0.11764705882352941
+910,himayath nagar,hyderabad,shawarma house,200.0,2.9,80,"arabian,snacks",himayath nagar,33,0.58,0.11764705882352941
+911,nallakunta & vidyanagar,hyderabad,chichore cafe,600.0,2.9,80,italian  beverages,nallakunta & vidyanagar,51,0.58,0.35294117647058826
+912,banjara hills,hyderabad,rotiwalaz food services,300.0,2.9,80,salads,banjara hills,39,0.58,0.17647058823529413
+913,tarnaka  nacharam & malkajigiri,hyderabad,house of biryani,350.0,2.9,80,indian  biryani,tarnaka  nacharam & malkajigiri,72,0.58,0.20588235294117646
+914,kothapet & dilsukhnagar,hyderabad,quality cakes,299.0,2.9,80,bakery  sweets  desserts,kothapet & dilsukhnagar,63,0.58,0.17588235294117646
+915,nallakunta & vidyanagar,hyderabad,cranky fried chicken,300.0,2.9,80,"pizzas,combo,beverages",nallakunta & vidyanagar,42,0.58,0.17647058823529413
+916,nallakunta & vidyanagar,hyderabad,thin wrap pizza co,400.0,2.9,80,pizzas,nallakunta & vidyanagar,43,0.58,0.23529411764705882
+917,nallakunta & vidyanagar,hyderabad,the cheese lovers,280.0,2.9,80,"pizzas,beverages,fast food",nallakunta & vidyanagar,43,0.58,0.16470588235294117
+918,nallakunta & vidyanagar,hyderabad,makhani pizzeria,450.0,2.9,80,pizzas,nallakunta & vidyanagar,40,0.58,0.2647058823529412
+919,mehdipatnam,hyderabad,walima ki dawat,700.0,2.9,80,"biryani,hyderabadi,mughlai",mehdipatnam,61,0.58,0.4117647058823529
+920,kothapet & dilsukhnagar,hyderabad,czars pizza,400.0,2.9,80,"italian,beverages,pizzas,snacks",kothapet & dilsukhnagar,55,0.58,0.23529411764705882
+921,nallakunta & vidyanagar,hyderabad,momos and pizza hub,400.0,2.9,80,"pizzas,fast food,chinese",nallakunta & vidyanagar,44,0.58,0.23529411764705882
+922,santoshnagar & saidabad,hyderabad,brista restaurant,350.0,3.8,100,"biryani,north indian,beverages,desserts,chinese",santoshnagar & saidabad,50,0.76,0.20588235294117646
+923,charminar,hyderabad,a1 fast food and nahari centre,150.0,2.9,80,"indian,biryani,chinese",charminar,58,0.58,0.08823529411764706
+924,tarnaka nacharam & malkajigiri,hyderabad,soul kitchen,500.0,4.1,50,chinese,tarnaka nacharam & malkajigiri,71,0.82,0.29411764705882354
+925,nallakunta & vidyanagar,hyderabad,dads kitchen,400.0,2.9,80,chinese,nallakunta & vidyanagar,40,0.58,0.23529411764705882
+926,somajiguda & khairtabad,hyderabad,baker's valley cake house,250.0,2.9,80,"pizzas,fast food",somajiguda & khairtabad,46,0.58,0.14705882352941177
+927,banjara hills,hyderabad,diamond bakery,350.0,2.9,80,pizzas  bakery,banjara hills,34,0.58,0.20588235294117646
+928,kharkhana & trimulgherry,hyderabad,balaji tiffins,150.0,4.1,20,south indian,kharkhana & trimulgherry,71,0.82,0.08823529411764706
+929,vanasthalipuram,hyderabad,subbayya gari hotel,250.0,3.9,500,south indian,vanasthalipuram,68,0.78,0.14705882352941177
+930,kothapet & dilsukhnagar,hyderabad,spice 9 restaurants,300.0,3.8,50,"biryani,north indian,indian",kothapet & dilsukhnagar,50,0.76,0.17647058823529413
+931,kothapet & dilsukhnagar,hyderabad,santrupti restaurant,400.0,2.9,80,"south indian,north indian,biryani",kothapet & dilsukhnagar,68,0.58,0.23529411764705882
+932,kothapet & dilsukhnagar,hyderabad,madhuban grand,350.0,3.7,20,"north indian,chinese,biryani,snacks,fast food,indian,seafood",kothapet & dilsukhnagar,51,0.74,0.20588235294117646
+933,uppal - hyderabad,hyderabad,shakesphere,250.0,2.9,80,"beverages,fast food",tarnaka nacharam & malkajigiri,72,0.58,0.14705882352941177
+934,bhavani nagar uppal - hyderabad,hyderabad,super naturals,250.0,2.9,80,beverages,tarnaka nacharam & malkajigiri,74,0.58,0.14705882352941177
+935,nallakunta & vidyanagar,hyderabad,go fresh the pizza house,300.0,4.2,20,"italian,pizzas,fast food",nallakunta & vidyanagar,43,0.8400000000000001,0.17647058823529413
+936,nallakunta & vidyanagar,hyderabad,abu shawarmas,200.0,4.2,20,"arabian,lebanese",nallakunta & vidyanagar,45,0.8400000000000001,0.11764705882352941
+937,banjara hills,hyderabad,haji ali fresh fruit juices,200.0,4.2,50,beverages  ice cream  fast food,banjara hills,69,0.8400000000000001,0.11764705882352941
+938,jubilee hills,hyderabad,nue cafe,800.0,3.9,20,"pastas,snacks,salads,juices,sweets,bakery,beverages,continental,italian",jubilee hills,73,0.78,0.47058823529411764
+939,tolichowki,hyderabad,abu faisal restaurant arabian food,600.0,2.9,80,"indian,desserts",tolichowki,72,0.58,0.35294117647058826
+940,nallakunta & vidyanagar,hyderabad,rhm bakers,199.0,2.9,80,bakery  pizzas  fast food  beverages,nallakunta & vidyanagar,54,0.58,0.11705882352941177
+941,himayath nagar,hyderabad,southern flavours,350.0,4.1,20,"south indian,beverages,indian",himayath nagar,41,0.82,0.20588235294117646
+942,ameerpet,hyderabad,chandigarh patiala dhaba,350.0,2.9,80,north indian  sweets,begumpet,62,0.58,0.20588235294117646
+943,nallakunta & vidyanagar,hyderabad,arbab kitchen,280.0,2.9,80,"biryani,chinese,seafood",nallakunta & vidyanagar,45,0.58,0.16470588235294117
+944,nallakunta & vidyanagar,hyderabad,biryani trip,350.0,4.4,50,biryani,nallakunta & vidyanagar,39,0.8800000000000001,0.20588235294117646
+945,nallakunta & vidyanagar,hyderabad,paratha envy,280.0,2.9,80,north indian,nallakunta & vidyanagar,40,0.58,0.16470588235294117
+946,nallakunta & vidyanagar,hyderabad,snack house,180.0,4.9,20,"fast food,snacks",nallakunta & vidyanagar,39,0.9800000000000001,0.10588235294117647
+947,nallakunta & vidyanagar,hyderabad,momo monk,180.0,2.9,80,"chinese,snacks",nallakunta & vidyanagar,39,0.58,0.10588235294117647
+948,himayath nagar,hyderabad,h.s.kitchens chilli and garlic,300.0,2.9,80,fast food  desserts,himayath nagar,45,0.58,0.17647058823529413
+949,charminar,hyderabad,feel in saudia,200.0,2.9,80,"beverages,indian,lebanese",charminar,55,0.58,0.11764705882352941
+950,secunderabad,hyderabad,grab a bowl,200.0,2.9,80,north indian  south indian  healthy food  juices,secunderabad,74,0.58,0.11764705882352941
+951,tolichowki,hyderabad,treat on the street,250.0,2.9,80,"pizzas,fast food,pastas,snacks,italian,desserts,north indian,indian",tolichowki,75,0.58,0.14705882352941177
+952,banjara hills,hyderabad,shahi mandi,350.0,2.9,80,indian,banjara hills,39,0.58,0.20588235294117646
+953,himayath nagar,hyderabad,qaffeine coffee by ohri's,400.0,4.3,20,"beverages,desserts,snacks",himayath nagar,40,0.86,0.23529411764705882
+954,uppal,hyderabad,smoothie bar,300.0,2.9,80,beverages,uppal,64,0.58,0.17647058823529413
+955,uppal,hyderabad,homelyfit,300.0,2.9,80,healthy food  continental  indian  chinese,uppal,66,0.58,0.17647058823529413
+956,tolichowki,hyderabad,khiljis castle,250.0,2.9,80,"arabian,snacks,fast food",tolichowki,78,0.58,0.14705882352941177
+957,secunderabad,hyderabad,snack sutra,200.0,2.9,80,fast food  snacks  beverages,secunderabad,79,0.58,0.11764705882352941
+958,nallakunta & vidyanagar,hyderabad,hyderabadish,300.0,4.2,20,"indian,biryani,kebabs",kavadiguda,45,0.8400000000000001,0.17647058823529413
+959,uppal,hyderabad,biryani zone,280.0,2.9,80,"biryani,chinese,indian,snacks,arabian,combo",uppal,69,0.58,0.16470588235294117
+960,kothapet & dilsukhnagar,hyderabad,ys mandi,400.0,2.9,80,"arabian,kebabs,biryani",kothapet & dilsukhnagar,44,0.58,0.23529411764705882
+961,charminar,hyderabad,eat n treat,250.0,2.9,80,sweets,charminar,45,0.58,0.14705882352941177
+962,kothapet & dilsukhnagar,hyderabad,guru raghavendra tiffins,100.0,2.9,80,"south indian,snacks,fast food,chaat",kothapet & dilsukhnagar,54,0.58,0.058823529411764705
+963,banjara hills,hyderabad,bistro bites,350.0,2.9,80,"fast food,pizzas,american",banjara hills,52,0.58,0.20588235294117646
+964,himayath nagar,hyderabad,te - a tea tradition,150.0,2.9,80,"beverages,snacks",himayath nagar,32,0.58,0.08823529411764706
+965,uppal,hyderabad,the sandwich box,300.0,2.9,80,"continental,snacks",uppal,69,0.58,0.17647058823529413
+966,uppal,hyderabad,kfc krishna food court,180.0,2.9,80,"indian,chinese",uppal,50,0.58,0.10588235294117647
+967,kothapet,hyderabad,eatfit,270.0,4.0,100,"healthy food,pizzas,north indian,thalis,biryani",beside metro station,57,0.8,0.1588235294117647
+968,mehdipatnam,hyderabad,labaan bakers and dairy,300.0,2.9,80,"italian,bakery",mehdipatnam,61,0.58,0.17647058823529413
+969,himayath nagar,hyderabad,new royal kitchen,200.0,2.9,80,italian  beverages,himayath nagar,46,0.58,0.11764705882352941
+970,himayath nagar,hyderabad,virat kitchen,300.0,2.9,80,north indian  chinese  tandoor  sweets  beverages,knowledge park,51,0.58,0.17647058823529413
+971,himayath nagar,hyderabad,sobremesa - cakes and desserts,300.0,4.3,20,"bakery,desserts",himayath nagar,45,0.86,0.17647058823529413
+972,himayath nagar,hyderabad,wallonia waffle co.,300.0,5.0,20,desserts,himayath nagar,45,1.0,0.17647058823529413
+973,himayath nagar,hyderabad,splurge - thickshakes and milkshakes,300.0,5.0,20,desserts  ice cream  beverages,himayath nagar,45,1.0,0.17647058823529413
+974,himayath nagar,hyderabad,the liege waffles,300.0,5.0,20,desserts  bakery,himayath nagar,45,1.0,0.17647058823529413
+975,vanasthalipuram,hyderabad,the manufactory shakes,200.0,2.9,80,beverages,vanasthalipuram,69,0.58,0.11764705882352941
+976,a.s. rao nagar & sainikpuri,hyderabad,balaji mohanlal mithai bhandar,200.0,2.9,80,sweets,a.s. rao nagar & sainikpuri,84,0.58,0.11764705882352941
+977,uppal,hyderabad,shamaa hotel,300.0,3.8,20,"indian,north indian,chinese,seafood,biryani,tandoor,ice cream",uppal,73,0.76,0.17647058823529413
+978,himayath nagar,hyderabad,gourmet gully,600.0,2.9,80,"continental,salads,pizzas,pastas,italian-american",himayath nagar,38,0.58,0.35294117647058826
+979,jillelaguda,hyderabad,chai amruth,110.0,2.9,80,beverages,vanasthalipuram,64,0.58,0.06470588235294118
+980,nallakunta & vidyanagar,hyderabad,tejus friends kitchen,200.0,2.9,80,indian  chinese,nallakunta & vidyanagar,42,0.58,0.11764705882352941
+981,himayath nagar,hyderabad,the dessert bakers,200.0,4.5,20,bakery  desserts  snacks,himayath nagar,35,0.9,0.11764705882352941
+982,kothapet & dilsukhnagar,hyderabad,rahmania chat corner,200.0,2.9,80,"indian,street food",kothapet & dilsukhnagar,49,0.58,0.11764705882352941
+983,santoshnagar & saidabad,hyderabad,pista house bakery,200.0,3.9,500,"italian,ice cream,beverages,fast food,continental",santoshnagar & saidabad,50,0.78,0.11764705882352941
+984,kothapet & dilsukhnagar,hyderabad,chitti in town robot restaurant,250.0,2.9,80,"indian,chinese,tandoor,seafood",kothapet & dilsukhnagar,61,0.58,0.14705882352941177
+985,kothapet & dilsukhnagar,hyderabad,fries.com,300.0,2.9,80,"chinese,bakery,beverages",kothapet & dilsukhnagar,68,0.58,0.17647058823529413
+986,kothapet & dilsukhnagar,hyderabad,a m shah haleem,500.0,2.9,80,indian,kothapet & dilsukhnagar,33,0.58,0.29411764705882354
+987,kothapet & dilsukhnagar,hyderabad,sri raghavendra tiffins & meals,280.0,2.9,80,south indian,kothapet & dilsukhnagar,48,0.58,0.16470588235294117
+988,banjara hills,hyderabad,mendys panipuri,300.0,2.9,80,"street food,chaat",banjara hills,69,0.58,0.17647058823529413
+989,santoshnagar & saidabad,hyderabad,foodiez hub,140.0,2.9,80,"chinese,indian",santoshnagar & saidabad,35,0.58,0.08235294117647059
+990,kothapet & dilsukhnagar,hyderabad,habibi hungry,200.0,4.6,50,"arabian,fast food",kothapet & dilsukhnagar,40,0.9199999999999999,0.11764705882352941
+991,banjara hills,hyderabad,chulha chowki,350.0,2.9,80,"indian,chinese,kebabs,tandoor,biryani,snacks,beverages,desserts,arabian",banjara hills,55,0.58,0.20588235294117646
+992,himayath nagar,hyderabad,delite pizza and shakes,200.0,2.9,80,"pizzas,beverages",himayath nagar,52,0.58,0.11764705882352941
+993,nallakunta & vidyanagar,hyderabad,al ibrahim hotel,250.0,4.2,100,biryani,nallakunta & vidyanagar,42,0.8400000000000001,0.14705882352941177
+994,ameerpet,hyderabad,sricanth dhaba,280.0,3.2,20,indian  chinese,ameerpet,69,0.64,0.16470588235294117
+995,hyderguda old mla home,hyderabad,american bakers bakers & confectioners,250.0,2.9,80,fast food,hyderguda,36,0.58,0.14705882352941177
+996,tolichowki,hyderabad,ttt juice center,150.0,2.9,80,beverages,tolichowki,61,0.58,0.08823529411764706
+997,ramgopalpet,hyderabad,tea time,200.0,2.9,80,beverages,begumpet,63,0.58,0.11764705882352941
+998,kothapet & dilsukhnagar,hyderabad,hunger's hub fastfood,250.0,2.9,80,"chinese,bakery,fast food",kothapet & dilsukhnagar,38,0.58,0.14705882352941177
+999,uppal,hyderabad,pista house restaurant,400.0,4.0,500,"biryani,chinese,tandoor,ice cream,beverages",uppal,64,0.8,0.23529411764705882
+1000,himayath nagar,hyderabad,hotel city point,200.0,2.9,80,"chinese,indian",himayath nagar,35,0.58,0.11764705882352941
+1001,nallakunta & vidyanagar,hyderabad,wow! samosa,105.0,2.9,80,snacks,nallakunta & vidyanagar,36,0.58,0.061764705882352944
+1002,kothapet & dilsukhnagar,hyderabad,sobremesa - cakes and dessets,300.0,4.4,20,bakery  desserts,kothapet & dilsukhnagar,74,0.8800000000000001,0.17647058823529413
+1003,uppal,hyderabad,pista house bakery,200.0,4.0,500,"pizzas,salads",uppal,63,0.8,0.11764705882352941
+1004,himayath nagar,hyderabad,monster pizza,140.0,2.9,80,pizzas,himayath nagar,35,0.58,0.08235294117647059
+1005,uppal,hyderabad,pista house tea,100.0,4.2,50,beverages,uppal,63,0.8400000000000001,0.058823529411764705
+1006,nallakunta & vidyanagar,hyderabad,durga's street delight's,200.0,2.9,80,"chinese,north indian,biryani",nallakunta & vidyanagar,41,0.58,0.11764705882352941
+1007,himayath nagar,hyderabad,the tea planet  kachiguda,200.0,2.9,80,"beverages,snacks",himayath nagar,31,0.58,0.11764705882352941
+1008,kothapet & dilsukhnagar,hyderabad,cherrys kitchen,200.0,2.9,80,"arabian,chinese,beverages",kothapet & dilsukhnagar,51,0.58,0.11764705882352941
+1009,ashok nagar,hyderabad,c kitchen,250.0,2.9,80,chinese,ashok nagar,40,0.58,0.14705882352941177
+1010,nallakunta & vidyanagar,hyderabad,vaishu's kitchen,300.0,2.9,80,"biryani,chinese",nallakunta & vidyanagar,48,0.58,0.17647058823529413
+1011,mehdipatnam,hyderabad,tasty byte,250.0,2.9,80,"chinese,italian,beverages",mehdipatnam,61,0.58,0.14705882352941177
+1012,charminar,hyderabad,msa juices shawarma fruits,200.0,2.9,80,"beverages,juices,indian",charminar,46,0.58,0.11764705882352941
+1013,ameerpet,hyderabad,vishnu priya udipi tiffins & meals,250.0,2.9,80,chinese  south indian,ameerpet,66,0.58,0.14705882352941177
+1014,himayath nagar,hyderabad,golden bistro,250.0,2.9,80,"chinese,fast food",himayath nagar,40,0.58,0.14705882352941177
+1015,banjara hills,hyderabad,filful shawarma,250.0,2.9,80,"snacks,lebanese",banjara hills,78,0.58,0.14705882352941177
+1016,tarnaka  nacharam & malkajigiri,hyderabad,manus kitchen tiffins,500.0,4.0,20,south indian  combo  sweets,tarnaka  nacharam & malkajigiri,69,0.8,0.29411764705882354
+1017,himayath nagar,hyderabad,zorro - milkshakes and thickshakes,300.0,5.0,20,beverages,himayath nagar,46,1.0,0.17647058823529413
+1018,tarnaka  nacharam & malkajigiri,hyderabad,hotel tamilnaadu,100.0,2.9,80,south indian,tarnaka  nacharam & malkajigiri,75,0.58,0.058823529411764705
+1019,kothapet & dilsukhnagar,hyderabad,bhaijaan's avenue,280.0,2.9,80,"north indian,seafood,indian",kothapet & dilsukhnagar,32,0.58,0.16470588235294117
+1020,charminar,hyderabad,bilaad eatery,275.0,2.9,80,pizzas,charminar,53,0.58,0.16176470588235295
+1021,tolichowki,hyderabad,sam icecreame and chat center,120.0,2.9,80,beverages  ice cream  salads,tolichowki,75,0.58,0.07058823529411765
+1022,kothapet & dilsukhnagar,hyderabad,grillistan,300.0,2.9,80,"arabian,fast food,pizzas,snacks,beverages",kothapet & dilsukhnagar,39,0.58,0.17647058823529413
+1023,vanasthalipuram,hyderabad,manna millet restaurant,150.0,2.9,80,south indian,vanasthalipuram,92,0.58,0.08823529411764706
+1024,himayath nagar,hyderabad,norfest - the dhaba,250.0,4.2,50,indian,himayath nagar,35,0.8400000000000001,0.14705882352941177
+1025,charminar,hyderabad,pista house bakery kotla,200.0,4.3,100,"fast food,continental,pizzas,snacks",charminar,46,0.86,0.11764705882352941
+1026,nallakunta & vidyanagar,hyderabad,all about garlic bread,300.0,2.9,80,fast food,nallakunta & vidyanagar,43,0.58,0.17647058823529413
+1027, begumpet,hyderabad,the hide away cafe,480.0,2.9,80,chinese,begumpet,67,0.58,0.2823529411764706
+1028,kothapet & dilsukhnagar,hyderabad,saleem stores the pan parlour,150.0,2.9,80,paan,kothapet & dilsukhnagar,57,0.58,0.08823529411764706
+1029,kothapet & dilsukhnagar,hyderabad,sri dharshani pure veg.tiffin center,300.0,2.9,80,south indian,kothapet & dilsukhnagar,58,0.58,0.17647058823529413
+1030,kothapet & dilsukhnagar,hyderabad,al-madina chinese fast food and arabian shawarma,300.0,2.9,80,chinese,kothapet & dilsukhnagar,32,0.58,0.17647058823529413
+1031,nallakunta & vidyanagar,hyderabad,brook bite brownie,200.0,2.9,80,desserts,nallakunta & vidyanagar,44,0.58,0.11764705882352941
+1032,tarnaka  nacharam & malkajigiri,hyderabad,yummy and cakes fast food,200.0,2.9,80,bakery  snacks,tarnaka  nacharam & malkajigiri,71,0.58,0.11764705882352941
+1033,ameerpet,hyderabad,babai tiffins and carries,200.0,2.9,80,south indian,ameerpet,72,0.58,0.11764705882352941
+1034,tolichowki,hyderabad,frost n roll,400.0,2.9,80,"ice cream,beverages,fast food",tolichowki,74,0.58,0.23529411764705882
+1035,kothapet & dilsukhnagar,hyderabad,military xpress,300.0,2.9,80,south indian,kothapet & dilsukhnagar,73,0.58,0.17647058823529413
+1036,himayath nagar,hyderabad,jaihind biryani (no halal),400.0,2.9,80,indian,himayath nagar,36,0.58,0.23529411764705882
+1037,himayath nagar,hyderabad,dharu snacks,350.0,2.9,80,"indian,combo",himayath nagar,34,0.58,0.20588235294117646
+1038,himayath nagar,hyderabad,bhagyalaxmi dhaba,250.0,2.9,80,indian  chinese  combo,himayath nagar,36,0.58,0.14705882352941177
+1039,banjarahills,hyderabad,grand chicken haleem,150.0,2.9,80,hyderabadi,red hills,46,0.58,0.08823529411764706
+1040,kothapet & dilsukhnagar,hyderabad,vaishnavi tiffins meals fast food,360.0,2.9,80,chinese,kothapet & dilsukhnagar,49,0.58,0.21176470588235294
+1041,ameerpet,hyderabad,raagam foods,300.0,2.9,80,biryani,ameerpet,73,0.58,0.17647058823529413
+1042,ameerpet,hyderabad,sonu de snacks,150.0,2.9,80,pizzas  north indian  fast food,ameerpet,77,0.58,0.08823529411764706
+1043,banjara hills,hyderabad,bijing chef,180.0,2.9,80,chinese,banjara hills,57,0.58,0.10588235294117647
+1044,kothapet & dilsukhnagar,hyderabad,mana inti ruchulu,200.0,2.9,80,indian,kothapet & dilsukhnagar,56,0.58,0.11764705882352941
+1045,santoshnagar & saidabad,hyderabad,hotel sahara,200.0,2.9,80,"south indian,chinese,biryani",santoshnagar & saidabad,43,0.58,0.11764705882352941
+1046,tarnaka  nacharam & malkajigiri,hyderabad,sm cake o clock bakers,400.0,2.9,80,bakery  fast food,tarnaka  nacharam & malkajigiri,70,0.58,0.23529411764705882
+1047,mehdipatnam,hyderabad,food planet restaurant,200.0,2.9,80,"chinese,north indian",mehdipatnam,49,0.58,0.11764705882352941
+1048,ameerpet,hyderabad,the tim cafe,200.0,2.9,80,snacks  mexican  pizzas  italian,ameerpet,74,0.58,0.11764705882352941
+1049,nallakunta & vidyanagar,hyderabad,food studio,220.0,2.9,80,"indian,chinese,arabian,fast food",nallakunta & vidyanagar,62,0.58,0.12941176470588237
+1050,santoshnagar & saidabad,hyderabad,saleem phekus,250.0,2.9,80,"chinese,snacks",santoshnagar & saidabad,37,0.58,0.14705882352941177
+1051,ameerpet,hyderabad,assr enterprises,250.0,2.9,80,beverages,ameerpet,74,0.58,0.14705882352941177
+1052,santoshnagar & saidabad,hyderabad,ms crunchy bites,200.0,2.9,80,"pizzas,fast food,beverages",santoshnagar & saidabad,46,0.58,0.11764705882352941
+1053,himayath nagar,hyderabad,awesome dimsum,600.0,2.9,80,north indian,himayath nagar,33,0.58,0.35294117647058826
+1054,himayath nagar,hyderabad,teas n more,150.0,2.9,80,"beverages,fast food,snacks,pizzas,chinese",himayath nagar,41,0.58,0.08823529411764706
+1055,tarnaka nacharam & malkajigiri,hyderabad,nallibokka muttonmukka,500.0,2.9,80,"indian,chinese,biryani",tarnaka nacharam & malkajigiri,67,0.58,0.29411764705882354
+1056,ameerpet,hyderabad,t-ruchi,2.0,2.9,80,chaat  fast food,ameerpet,64,0.58,0.001176470588235294
+1057,charminar,hyderabad,gharib nawaz fast food & biryani,200.0,2.9,80,"chinese,beverages",charminar,50,0.58,0.11764705882352941
+1058,ameerpet,hyderabad,sri sai tiffins and chat,250.0,2.9,80,south indian,ameerpet,73,0.58,0.14705882352941177
+1059,charminar,hyderabad,mashallah bait al mandi the arabian restaurant,1600.0,2.9,80,north indian,aramghar & sivarampally,79,0.58,0.9411764705882353
+1060,charminar,hyderabad,a'la liberty,450.0,4.3,20,"north indian,chinese,biryani",charminar,41,0.86,0.2647058823529412
+1061,kothapet & dilsukhnagar,hyderabad,aradhya chinese fast food center,300.0,2.9,80,chinese,kothapet & dilsukhnagar,61,0.58,0.17647058823529413
+1062,himayath nagar,hyderabad,kwality wall s frozen dessert & ice cream shop,200.0,2.9,80,"ice cream,desserts",himayath nagar,36,0.58,0.11764705882352941
+1063,uppal,hyderabad,saarangi restaurant,590.0,2.9,80,south indian  north indian,uppal,65,0.58,0.34705882352941175
+1064,banjara hills,hyderabad,punjab national hotel,800.0,2.9,80,"punjabi,north indian",banjara hills,77,0.58,0.47058823529411764
+1065,mehdipatnam,hyderabad,ajooba food court,250.0,2.9,80,"chinese,sweets,beverages",mehdipatnam,53,0.58,0.14705882352941177
+1066,himayath nagar,hyderabad,look at me,338.0,2.9,80,"pizzas,snacks,beverages",himayath nagar,33,0.58,0.1988235294117647
+1067,uppal,hyderabad,taj bakery,200.0,2.9,80,bakery,uppal,54,0.58,0.11764705882352941
+1068,himayath nagar,hyderabad,agra sweet house,180.0,2.9,80,"sweets,snacks",himayath nagar,43,0.58,0.10588235294117647
+1069,himayath nagar,hyderabad,rayees shawarma & momos,200.0,2.9,80,"lebanese,chinese",himayath nagar,34,0.58,0.11764705882352941
+1070,himayath nagar,hyderabad,kalyug kitchen,250.0,2.9,80,south indian,himayath nagar,38,0.58,0.14705882352941177
+1071,nallakunta & vidyanagar,hyderabad,that idly place,150.0,2.9,80,"south indian,indian,snacks",nallakunta & vidyanagar,44,0.58,0.08823529411764706
+1072,himayath nagar,hyderabad,new sangam hotel,230.0,2.9,80,"north indian,indian,chinese,snacks",himayath nagar,33,0.58,0.13529411764705881
+1073,himayath nagar,hyderabad,sandwich fun,200.0,2.9,80,"pizzas,snacks",himayath nagar,39,0.58,0.11764705882352941
+1074,himayath nagar,hyderabad,bake and beans,400.0,2.9,80,"snacks,american,pizzas,pastas,beverages",himayath nagar,36,0.58,0.23529411764705882
+1075,himayath nagar,hyderabad,silver spoon,160.0,2.9,80,snacks  combo,himayath nagar,37,0.58,0.09411764705882353
